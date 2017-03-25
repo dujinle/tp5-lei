@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 114119 */
+    src: url('//at.alicdn.com/t/font_f4x5toeqq2z3q5mi.eot');
+    src: url('//at.alicdn.com/t/font_f4x5toeqq2z3q5mi.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_f4x5toeqq2z3q5mi.woff') format('woff'),
+    url('//at.alicdn.com/t/font_f4x5toeqq2z3q5mi.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_f4x5toeqq2z3q5mi.svg#iconfont') format('svg');
+}
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.dmlei-page-nav .icon-nav{ 
+    font-size: 18px;
+    color: #fff;
+    margin-right: 5px;
+}
+.dmlei-page-nav li.active .icon-nav{
+    color:#9c9c9c;
+}
+#dmlei-drop-people .top-dropdown{
+    font-size:14px;
+    color:#757575;
+    margin-right:5px;
+}
+.dmlei-quick .icon-exit{
+    color:#fff;
+    font-size:18px;
+}
+.weixin-icon {
+    color: #01D30C;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.dmlei-mediashow .mediaicon{
+    font-size:16px;
+    color:#9c9c9c;
+}
+.icon-title{
+    color:#9F9F9F;
+    font-size:16px;
+    margin-right:18px;
+}
+.icon-sj-item{
+    font-size:20px;
+    color:#fff;
+    line-height:60px!important;
+}
+.icon-mask{
+    font-size:18px;
+    color:#fff;
+}
+.dsp{
+    font-size:14px;
+    margin-right:7px;
+}
+.make-icon{
+    margin-right:10px;
+}
+.icon-shop,.wx_read,.wxhot-read{
+    margin-right:4px;
+}
+.icon-empty{
+    margin-right:10px;
+    font-size:16px;
+}
+.back-icon{margin-right:5px;
+    font-size:16px;}
+.iconprice{
+    font-size:24px;
+    color:#fff;
+    line-height:40px;
+}
+.icon-desc{
+    font-size:16px;
+    color:#b1b1b1;
+    position: absolute;
+    right: 4px;
+    top: 22px;
+    cursor: pointer;
+}
+.order-dropdown{
+    font-size:12px;
+    color:#707070;
+
+}
+.icon-strategy{
+    font-size:14px;
+    margin-right:5px;
+    }
+.icon-dayu{
+    font-size:18px;color:#767676;
+}
+.icon-user-order{
+    font-size:20px;
+}
+.icon-weixin{
+    background:#14d212;
+}
+.icon-weixin1{
+    color:#14d212;
+}
+.icon-xinwen{
+    background:#43bdc8;
+}
+.icon-xinwen1{
+    color:#43bdc8;
+}
+.icon-weibo{
+    background:#ff8140;
+}
+.icon-weibo1{
+    color:#ff8140;
+}
+.icon-daixie{
+    background:#deb72f;
+}
+.icon-baike{
+    background:#0000FF;
+}
+.icon-tuikuan{
+    background:#f36a5a;
+}
+.icon-wenda{
+    background:#6BCBC8;
+}
+.icon-liuliang{
+    background:#56ABE4;
+}
+.icon-home{font-size:18px;color:#E84E40;line-height:58px;}
+.icon-news-square1{font-size:40px;color:#ffa200; }
+.icon-news-square2{font-size:40px;color:#FF6666; }
+.icon-news-square3{font-size:40px;color:#1EB44B; }
+.icon-news-square4{font-size:40px;color:#38C5D2; }
+.icon-news-square5{font-size:40px;color:#3898DC; }
+.icon-news-square6{font-size:40px;color:#E85043; }
+
+.icon-maskhot{font-size:16px;color:#fff;margin-left:5px;}
+.icon-star{font-size:16px;color:#E84E40;}
+.icon-fans{font-size:14px; color:#fff;margin-right:5px;}
+.icon-location{font-size:14px; color:#fff;margin-right:2px;}
+.icon-dtx-x{font-size:30px; color:#fff;}
+.icon-sex{font-size:14px;color:#fff;}
+.icon-friend-other{
+    font-size:38px;
+    color:#777;
+    text-align: center;
+    display: block;
+    margin-bottom:3px;
+    line-height:35px;
+}
+.icon-shop-type{
+    color:#fff;
+    font-size:28px;
+    line-height:50px;
+}
+.icon-shopmore{
+    font-size:16px;
+    color:#666;
+}
+.icon-no-shopcart{
+    font-size:23px;
+    color:#999;
+    margin-right:10px;
+}
+.icon-shop-right{
+    color:#c1c1c1;
+    font-size:23px;
+    position:relative;
+    display: inline-block;
+    top:2px;
+}
+.icon-dmlei-return{
+    font-size:14px;
+    color:#e84c3d;
+    margin-right:5px;
+}
+.icon-dsp-data{
+    font-size:18px;
+    color:#acc0cc;
+}
+.dsp-man{
+    font-size:16px;
+    color:#0099cc;
+    margin-right:3px;
+}
+.dsp-woman{
+    font-size:16px;
+    color:#FF7CB6;
+    margin-right:3px;
+    position:relative;
+    top:2px;
+}
+.icon-coupon,.icon-invite{
+    font-size:18px;
+    color:#555;
+    margin-right:5px;
+    font-weight: normal!important;
+}
+.icon-nocheck{
+    font-size:15px;
+    color:#e84c3d;
+}
