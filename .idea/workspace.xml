@@ -27,9 +27,26 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foreground/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <marker date="1490527182000" expanded="true" signature="151658:151673" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="151707:151722" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="151882:151897" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="152545:152560" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="152601:152616" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="152770:152785" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="152989:153004" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="153038:153053" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="153213:153228" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="153427:153442" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="153476:153491" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="153651:153666" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="153884:153899" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="154296:154311" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="154345:154360" ph="..." />
+                <marker date="1490527182000" expanded="true" signature="154520:154535" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,8 +64,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="517" />
-    <option name="y" value="70" />
+    <option name="x" value="298" />
+    <option name="y" value="31" />
     <option name="width" value="1280" />
     <option name="height" value="721" />
   </component>
@@ -165,15 +182,15 @@
       <workItem from="1490527188701" duration="440000" />
       <workItem from="1490528695670" duration="292000" />
       <workItem from="1490529388378" duration="423000" />
-      <workItem from="1490530136831" duration="47000" />
+      <workItem from="1490530136831" duration="236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1202000" />
+    <option name="totallyTimeSpent" value="1391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="517" y="70" width="1280" height="721" extended-state="0" />
+    <frame x="298" y="31" width="1280" height="721" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2657512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -207,15 +224,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1490527182000" expanded="true" signature="151658:151673" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="151707:151722" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="151882:151897" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152545:152560" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152601:152616" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152770:152785" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152989:153004" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153038:153053" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153213:153228" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153427:153442" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153476:153491" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153651:153666" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153884:153899" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="154296:154311" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="154345:154360" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="154520:154535" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foreground/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <marker date="1490527182000" expanded="true" signature="151658:151673" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="151707:151722" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="151882:151897" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152545:152560" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152601:152616" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152770:152785" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="152989:153004" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153038:153053" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153213:153228" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153427:153442" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153476:153491" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153651:153666" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="153884:153899" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="154296:154311" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="154345:154360" ph="..." />
+            <marker date="1490527182000" expanded="true" signature="154520:154535" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
