@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <title>DMLei 数字镭-自助精准营销平台！-朋友圈广告</title>
+    <meta name="keywords" content="朋友圈推广,微信朋友圈推广,朋友圈推广广告,朋友圈推广方案,微信朋友圈推广文案">
+    <meta name="description" content="朋友圈推广首选DMLei(数字镭)，为您提供全面的朋友圈推广方案，微信朋友圈推广，覆盖七亿用户量，同样的广告，不一样的营销效果。同时,DMLei(数字镭)拥有资深专业文案撰写人员，为您撰写微信朋友圈推广文案，不一样的朋友圈推广文案，让您的品牌与众不同！">
+    <link rel="stylesheet" href="http://image.dmlei.com/Public/static/DmleiV2/css/myClearstyle.css">
+    <link rel="stylesheet" href="http://image.dmlei.com/Public/static/DmleiV2/css/dmleiV2.css">
+    <link rel="stylesheet" href="http://image.dmlei.com/Public/static/DmleiV2/css/header.css">
+    <link rel="stylesheet" href="http://image.dmlei.com/Public/static/DmleiV2/css/highlight.css">
+    <link rel="stylesheet" href="http://image.dmlei.com/Public/static/DmleiV2/css/iconfont.css">
+    <script src="http://image.dmlei.com/Public/static/DmleiV2/js/jquery-1.7.1.min.js"></script>
+    <script src="http://image.dmlei.com/Public/static/DmleiV2/js/vivo-common.js"></script>
+    <script src="http://image.dmlei.com/Public/static/DmleiV2/js/vivo-high.js"></script>
+    <script src="http://image.dmlei.com/Public/static/DmleiV2/js/index.js"></script>
+    <style>
+        .banner-btn-box{
+            width:1200px;
+            margin:0 auto;
+            height:500px;
+            position:relative;
+        }
+        .banner-btn{
+            width:174px;
+            height:54px;
+            border-radius: 6px;
+            background: #fff;
+            color:#e84c3d;
+            text-align: center;
+            line-height: 54px;
+            position:absolute;
+            bottom:91px;
+            font-size:20px;
+            cursor: pointer;
+            transition: all ease 0.5s;
+            -webkit-transition: all ease 0.5s;
+            -moz-transition:all ease 0.5s;
+            -o-transition:all ease 0.5s;
+        }
+        .banner-btn:hover{
+            background: #e84c3d;
+            color:#fff;
+        }
+    </style>
+
+</head>
+<body>
+<!--top BEGIN-->
+<!--登录-->
+<link rel="stylesheet" href="http://image.dmlei.com/Public/static/bootstrap/css/page.css">
+<div id="header" class="body-top">
+        <div class="contain clearfix">
+            <div class="top-left color6 f12 lh35 fl">关注微信公众号
+                <div class="content focusweixin">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/ewm.jpg" style="width: 100px;height: 100px;border: none;display: block; margin: 10px; margin-bottom: 0;">
+                    <span>DMLei微信公众号</span>
+                </div>
+            </div>
+            <div class="top-right fr lh35">
+                <div class="fl co6 f12 padd-r20">您好，欢迎来到数字镭</div>
+
+                <div class="fl navigation co6 f12">
+                    <a class="f12 text-danger" href="/login">登录</a>
+                </div>
+                <div class="fl line1"></div>
+                <div class="fl navigation co6 f12 padd-r20">
+                    <a class="f12 text-danger" href="/register">注册</a>
+                </div>
+
+                                <!--新增加网站导航 BEGIN-->
+                <div class="fl co6 f12 padd-r20" id="navigations">
+                    <a class="f12" href="">网站导航</a>
+                    <span class="caret"></span>
+                    <div class="pos_absolute navigation_van p20" id="navigation_van">
+                        <div class="arrow"></div>
+                        <div class="navigation_left fl">
+                            <div class="pr10">
+                                <div class="navigation_name navigation_hot">帮助中心</div>
+                                <div class="blank10"></div>
+                                <ul class="navigation_list" style="width: 100%">
+                                    <li><a href="/support" target="_blank" title="常见问题">常见问题</a></li>
+                                    <li><a href="/support" title="名词相关" target="_blank">名词相关</a></li>
+                                    <li><a href="/support" title="财务相关" target="_blank">财务相关</a></li>
+                                    <li><a href="/support" title="关于DMLei" target="_blank">关于DMLei</a></li>
+                                    <li><a href="/support" title="关于投放" target="_blank">关于投放</a></li>
+                                    <li><a href="/support" title="注册及密码" target="_blank">注册及密码</a></li>
+                                </ul>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="navigation_center1 fl">
+                            <div class="pl10 pr10">
+                                <div class="navigation_name">产品中心</div>
+                                <div class="blank10"></div>
+                                <ul class="navigation_list fl">
+                                    <li><a href="/contribute#dingwei" title="热门套餐" target="_blank">热门套餐</a></li>
+                                    <li><a href="/friends" title="朋友圈广告" target="_blank">朋友圈广告</a></li>
+                                    <li><a href="/reputations" title="百科营销" target="_blank">百科营销</a></li>
+                                    <li><a href="/contribute" title="新闻投稿" target="_blank">新闻投稿</a></li>
+                                    <li class="navigation_news"><a href="/weibo" title="微博推广" target="_blank">微博推广</a></li>
+                                </ul>
+                                <ul class="navigation_list fl">
+                                    <li><a href="/marketing" target="_blank" title="精准营销">精准营销</a></li>
+                                    <li><a href="/lives" target="_blank" title="直播网红">直播网红</a></li>
+                                    <li><a href="/reputations" target="_blank" title="问答营销">问答营销</a></li>
+                                    <li><a href="/wechat" target="_blank" title="微信推广">微信推广</a></li>
+                                </ul>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="navigation_right fl ">
+                            <div class="pl10 pr10">
+                                <div class="navigation_name">微信热文</div>
+                                <div class="blank10"></div>
+                                <ul class="navigation_list fl" style="width:75px;">
+                                    <li><a href="/wxhot" target="_blank" title="热门">热门</a></li>
+                                    <li><a href="/wxhotcatelog/67" target="_blank" title="美食">美食</a></li>
+                                    <li><a href="/wxhotcatelog/66" target="_blank" title="电商">电商</a></li>
+                                    <li><a href="/wxhotcatelog/56" target="_blank" title="汽车">汽车</a></li>
+                                </ul>
+                                <ul class="navigation_list fl">
+                                    <li><a href="/wxhotcatelog/55" target="_blank" title="时尚/女性">时尚/女性</a></li>
+                                    <li><a href="/wxhotcatelog/61" target="_blank" title="母婴/育儿">母婴/育儿</a></li>
+                                    <li><a href="/wxhotcatelog/68" target="_blank" title="健康养生">健康养生</a></li>
+                                    <li><a href="/wxhotcatelog/65" target="_blank" title="IT/互联网">IT/互联网</a></li>
+                                    <li><a href="/wxhotcatelog/60" target="_blank" title="商业财经">商业财经</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="navigation_left fl border-left">
+                            <div class="pr10 pl10">
+                                <div class="navigation_name navigation_hot">服务中心</div>
+                                <div class="blank10"></div>
+                                <ul class="navigation_list" style="width: 100%">
+                                    <li><a href="/cooperation" title="招商合作" target="_blank">招商合作</a></li>
+                                    <li><a href="/project" title="新三板专题" target="_blank">新三板专题</a></li>
+                                    <li><a href="/yxxy" title="营销技巧" target="_blank">营销学院</a></li>
+                                    <li><a href="/marketingtech" title="游戏版号" target="_blank">游戏版号</a></li>
+                                </ul>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="navigation_left fl border-left">
+                            <div class="pr10 pl10">
+                                <div class="navigation_name navigation_hot">关于我们</div>
+                                <div class="blank10"></div>
+                                <ul class="navigation_list" style="width: 100%">
+                                    <li><a href="/about" title="企业简介" target="_blank" >企业简介</a></li>
+                                    <li><a href="/notice" title="活动公告" target="_blank" >活动公告</a></li>
+                                    <li><a href="/trick" title="营销技巧" target="_blank" >营销技巧</a></li>
+                                    <li><a href="/contact" title="联系我们" target="_blank" >联系我们</a></li>
+                                    <li><a href="/sitemap" title="网站地图" target="_blank" >网站地图</a></li>
+                                </ul>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+
+                    </div>
+                </div>
+                <!--新增加网站导航 end-->
+                <!--<div class="fl co6 f12 padd-r20"> <a class="f12 text-danger" href="/support">帮助中心</a></div>-->
+                <div class="fl f12 text-danger"> <i class="iconfont icon-lianxi">&#xe616;</i>&nbsp;&nbsp;400-6677-567</div>
+                <!--中英文切换-->
+                <!--<div id="drop" class="fl">-->
+                    <!--<img id="flag" src="http://7xnlea.com1.z0.glb.clouddn.com/zg-flag.png">-->
+                    <!--<p style="display: inline-block">简体中文</p>-->
+                    <!--<span class="sanjiao"></span>-->
+                    <!--<ul class="dropdown">-->
+                        <!--<li onclick="location.href='/?language=zh'"><img src="http://7xnlea.com1.z0.glb.clouddn.com/zg-flag.png">简体中文</li>-->
+                        <!--<li onclick="location.href='/?language=en'"><img src="http://7xnlea.com1.z0.glb.clouddn.com/mg-flag.png">English</li>-->
+                        <!--&lt;!&ndash;<li style="border-bottom:none;"><img src="http://7xnlea.com1.z0.glb.clouddn.com/rb-flag.png">日本語の</li>&ndash;&gt;-->
+                    <!--</ul>-->
+                <!--</div>-->
+            </div>
+        </div>
+    </div>
+<script>
+      $("#buttto").click(function(){
+                 window.location.href="/System/index"; 
+       });
+      $('#navigations').hover(function() {
+          $(this).find('#navigation_van').css('display', 'block');
+      }, function() {
+          $(this).find('#navigation_van').css('display', 'none');
+      });
+</script>
+<!-- WPA Button Begin -->
+<script charset="utf-8" src="http://wpa.b.qq.com/cgi/wpa.php"></script>
+<!-- WPA Button End -->
+<!-- QQ联系客服代码 -->
+<div class="fixBox">
+    <a href="javascript:;" class="item" id="BizQQWPA">
+        <i class="iconfont icon-lianxi" style="font-size:30px;">&#xe617;</i>
+        <div class="content">QQ在线客服</div>
+    </a>
+    <a href="javascript:;" class="item">
+        <i class="iconfont icon-lianxi">&#xe619;</i>
+        <div class="content">
+            <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/ewm.jpg" style="width: 100px;height: 100px;border: none;display: block; margin: 10px; margin-bottom: 0;">
+            <span>DMLei微信公众号</span>
+        </div>
+    </a>
+    <a href="javascript:;" class="item">
+        <i class="iconfont icon-lianxi">&#xe616;</i>
+        <div class="content">400-6677-567</div>
+    </a>
+</div>
+<!-- end d -->
+<!--百度统计代码-->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?6b7acdd9261af6c5598a2e7502f61b09";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+<script type="text/javascript">
+    BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006677567, selector: 'BizQQWPA'});
+</script>
+<!--top END-->
+<!--nav BEGIN-->
+<div class="nav" id="dmlei-menu">
+    <div class="contain clearfix">
+        <div class="media_logo">
+            <a href="javascript:;" title="数字镭 营销只为有效">
+                <img class="fl" src="http://7xnlea.com2.z0.glb.qiniucdn.com/logo_new.png" title="数字镭 营销只为有效">
+            </a>
+        </div>
+        <div class="aw-top-nav navbar">
+			<nav class="navigation">
+            	<ul class="nav navbar-nav">
+					<span style='display:none' id="biaob" value='friends'></span>
+					<li><a href="/" id="first_page" class="">首页</a></li>
+					<li class="nav-hasdrop">
+						<a href="/contribute" id="network_marketing" class="">网络营销 <span class="caret"></span></a>
+						<ul class="dmleiv2-nav-dropdown">
+							<li><a href="/contribute">新闻投稿</a></li>
+							<li><a href="/reputations">口碑营销</a></li>
+						</ul>
+					</li>
+					<li class="nav-hasdrop">
+						<a href="/lives" id="media_marketing" class="">自媒体营销 <span class="caret"></span></a>
+						<ul class="dmleiv2-nav-dropdown">
+							<li><a href="/lives">网红营销</a></li>
+							<li><a href="/wechat">微信大号</a></li>
+							<li><a href="/weibo">微博营销</a></li>
+						</ul>
+					</li>
+					<li><a href="/friends" id="friends" class="" >微信朋友圈</a></li>
+					<li><a href="/marketing" id="jinzhun" class="">精准营销</a></li>
+					<li><a href="/yxxy" id="yxxy" class="">营销学院</a></li>
+					<li><a href="/choicecase" id="choicecase" class="">精选案例</a></li>
+
+					<!--<li><a href="/contribute" id="xinwentou" class="" >新闻投稿</a></li>-->
+					<!--<li style="position:relative;"><a href="/lives" id="livetui" class="">直播网红</a><i id="hot" style="position:absolute;top:32px;right:-11px;transition: all ease 0.3s;"><img src="http://7xnlea.com1.z0.glb.clouddn.com/hot.png"></i></li>-->
+					<!--<li><a href="/wechat" id="weixintui" class="">微信推广</a></li>-->
+					<!--<li><a href="/weibo" id="weibotui" class="">微博推广</a></li>-->
+				</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+<!--<script src="http://image.dmlei.com/Public/static/DmleiV2/js/form.js"></script>-->
+<script type="text/javascript" src="http://image.dmlei.com/Public/static/mobile/js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="http://image.dmlei.com/Public/static/mobile/js/jquery.glide.js"></script>
+<script type="text/javascript" src="http://image.dmlei.com/Public/static/mobile/js/script.js"></script>
+
+<script>
+	$(function(){
+		var biaoshi=$("#biaob").attr('value');
+//		if(biaoshi=='shouye'||biaoshi=='jinzhun'||biaoshi=='livetui'||biaoshi=='xinwentou'||biaoshi=='choicecase'||biaoshi=='weixintui'||biaoshi=='weibotui'||biaoshi=='yingxiaoqiao'){
+//			$("#livetui").hover(function(){
+//				$("#hot").css('display','none');
+//			},function(){
+//				$("#hot").css('display','block');
+//			})
+//		}
+		//alert(biaoshi);
+		if(biaoshi=='shouye'){
+			$("#first_page").attr('class','button_pu bor_no van_hover'); //首页
+			$("#network_marketing").attr('class',' '); //网络营销
+			$("#media_marketing").attr('class',' '); //自媒体营销
+			$("#friends").attr('class',' '); //微信朋友圈
+			$("#jinzhun").attr('class',' '); //精准营销
+			$("#yxxy").attr('class',' '); //营销学院
+			$("#choicecase").attr('class',' '); //精选案例
+		}
+		else if(biaoshi=='network_marketing'){
+			$("#first_page").attr('class',' '); //首页
+			$("#network_marketing").attr('class','button_pu bor_no van_hover'); //网络营销
+			$("#media_marketing").attr('class',' '); //自媒体营销
+			$("#friends").attr('class',' '); //微信朋友圈
+			$("#jinzhun").attr('class',' '); //精准营销
+			$("#yxxy").attr('class',' '); //营销学院
+			$("#choicecase").attr('class',' '); //精选案例
+		}
+		else if(biaoshi=='media_marketing'){
+			$("#first_page").attr('class',' '); //首页
+			$("#network_marketing").attr('class',' '); //网络营销
+			$("#media_marketing").attr('class','button_pu bor_no van_hover'); //自媒体营销
+			$("#friends").attr('class',' '); //微信朋友圈
+			$("#jinzhun").attr('class',' '); //精准营销
+			$("#yxxy").attr('class',' '); //营销学院
+			$("#choicecase").attr('class',' '); //精选案例
+		}
+		else if(biaoshi=='friends'){
+			$("#first_page").attr('class',' '); //首页
+			$("#network_marketing").attr('class',' '); //网络营销
+			$("#media_marketing").attr('class',' '); //自媒体营销
+			$("#friends").attr('class','button_pu bor_no van_hover'); //微信朋友圈
+			$("#jinzhun").attr('class',' '); //精准营销
+			$("#yxxy").attr('class',' '); //营销学院
+			$("#choicecase").attr('class',' '); //精选案例
+		}
+		else if(biaoshi=='jinzhun'){
+			$("#first_page").attr('class',' '); //首页
+			$("#network_marketing").attr('class',' '); //网络营销
+			$("#media_marketing").attr('class',' '); //自媒体营销
+			$("#friends").attr('class',' '); //微信朋友圈
+			$("#jinzhun").attr('class','button_pu bor_no van_hover'); //精准营销
+			$("#yxxy").attr('class',' '); //营销学院
+			$("#choicecase").attr('class',' '); //精选案例
+		}
+		else if(biaoshi=='yxxy'){
+			$("#first_page").attr('class',' '); //首页
+			$("#network_marketing").attr('class',' '); //网络营销
+			$("#media_marketing").attr('class',' '); //自媒体营销
+			$("#friends").attr('class',' '); //微信朋友圈
+			$("#jinzhun").attr('class',' '); //精准营销
+			$("#yxxy").attr('class','button_pu bor_no van_hover'); //营销学院
+			$("#choicecase").attr('class',' '); //精选案例
+		}
+		else if(biaoshi=='choicecase'){
+			$("#first_page").attr('class',' '); //首页
+			$("#network_marketing").attr('class',' '); //网络营销
+			$("#media_marketing").attr('class',' '); //自媒体营销
+			$("#friends").attr('class',' '); //微信朋友圈
+			$("#jinzhun").attr('class',' '); //精准营销
+			$("#yxxy").attr('class',' '); //营销学院
+			$("#choicecase").attr('class','button_pu bor_no van_hover'); //精选案例
+		}
+
+		$('.navbar-nav>li ').hover(function() {
+			$(this).find('.dmleiv2-nav-dropdown').addClass('open');
+		}, function() {
+			$(this).find('.dmleiv2-nav-dropdown').removeClass('open');
+		});
+		var $nav=$("#dmlei-menu");
+		$(window).scroll(function() {
+			if ($(document).scrollTop() >= 126) {
+				$nav.addClass("fixednav").css('top',0);
+			}
+			else {
+				$nav.removeClass("fixednav").css('top',-90+'px');
+			}
+		})
+		$('.navbar-nav>li ').hover(function() {
+			$(this).find('.dmleiv2-nav-dropdown').addClass('open');
+		}, function() {
+			$(this).find('.dmleiv2-nav-dropdown').removeClass('open');
+		});
+		var $nav=$("#dmlei-menu");
+		$(window).scroll(function() {
+			if ($(document).scrollTop() >= 126) {
+				$nav.addClass("fixednav");
+			}
+			else {
+				$nav.removeClass("fixednav");
+			}
+		})
+	})
+</script>
+<!--nav END-->
+<!--banner begin-->
+<div class="banner" id="vivo-wrap">
+    <div id="vivo-contain">
+        <div class="page-banner pyq-banner" id="pyq-banner">
+            
+ <div class="container" style="position:relative;top:0;width:1200px;margin:0 auto;height:100%;">
+     <div class="cont clearfix" style="position:absolute;top:0;right:0;z-index:900;">
+         <div class="banner-right">
+             <div class="form">
+                 <div class="form-title">
+                         <ul>
+                             <li class=""><a>快速注册</a></li>
+                             <li><a>马上登录</a></li>
+                             <li class="detail-nav-bor"></li>
+                         </ul>
+                     </div>
+                     <!--马上注册-->
+                     <form action="/Index/register" method="post" id='reg_form' style="padding-bottom:1px;">
+                         <div class="form-con" style="display: block;">
+                             <div class="userName user" style="margin-top: 23px;">
+                                 <i class="iconfont icon-username">&#xe665;</i>
+                                 <input type="text" placeholder="请输入您的手机号" class="shurukuang" name="phone" id="phone">
+                                 <div id="user-err-i" class="prompt"><i class="iconfont icon-error">&#xe668;</i>请输入您的手机号</div>
+                                 <div id="user-err-i1" class="prompt"><i class="iconfont icon-error">&#xe668;</i>请输入正确的手机号</div>
+                                 <div id="user-err-i2" class="prompt"><i class="iconfont icon-error">&#xe668;</i>该号码已经注册</div>
+
+                             </div>
+                             <div class="clearfix">
+                                 <div class="activeyanzh" fl="" style="margin-top: 15px;">
+                                     <i class="iconfont icon-username">&#xe666;</i>
+                                     <input type="text" placeholder="请输入右侧验证码" class="shurukuang" name="vCode" id="vCode">
+                                     <div class="range"  >
+                                         <img style="min-height:38px;"  src="/Misc/verify" class="verify" onclick="changeVerify()">
+                                     </div>
+                                     <div id="code-err-i" class="prompt"><i class="iconfont icon-error">&#xe668;</i>请输入右侧验证码</div>
+                                     <div id="code-err-i1" class="prompt"><i class="iconfont icon-error">&#xe668;</i>验证字符错误,请重新输入</div>
+                                 </div>
+                             </div>
+                             <div class="shoujihao" style="margin-top: 15px;position:relative">
+                                 <i class="iconfont icon-username">&#xe664;</i>
+                                 <input type="text" placeholder="请输入短信验证码" class="shurukuang" name="vercode" id="vercode">
+                                 <div fr="" style="position:absolute;right:0;top:-1px;">
+                                     <input style="font-size:12px;" id="btnverycode"  class="sendyzm" value="获取验证码" type="button">
+                                 </div>
+                                 <div id="verification-err-i" class="prompt prompt1"><i class="iconfont icon-error">&#xe668;</i>请输入您的验证码<i  class="yz-close iconfont icon-error fr" style="cursor: pointer;">&#xe641;</i></div>
+                                 <div id="verification-err-i1" class="prompt prompt1"><i class="iconfont icon-error">&#xe668;</i>验证码错误,请重新输入<i class="yz-close iconfont icon-error fr" style="cursor: pointer;">&#xe641;</i></div>
+                             </div>
+                             <!--微信注册-->
+                             <div class="wxregister">
+                                 <p id="wxregister-text">收不到验证码？试试
+                                     <i class="iconfont icon-wxzc">&#xe606;</i>
+                                     <a id="wx-scan">
+                                         微信注册
+                                     </a>
+                                 </p>
+                                 <a id="phone-register">使用手机短信验证码注册</a>
+                             </div>
+                             <div class="userName passwor" style="margin-top: 15px;">
+                                 <i class="iconfont icon-username">&#xe667;</i>
+                                 <input type="password" placeholder="请设置您的登录密码" class="shurukuang" name="password" id="password">
+                                 <div id="pass-err-i" class="prompt"><i class="iconfont icon-error">&#xe668;</i>请输入您的登录密码</div>
+                             </div>
+
+
+                             <!--用户注册协议-->
+                             <div class="clearfix zhuce-xieyi clearfix" style="margin:19px 0 0;">
+                                 <div class="fl zcxy">
+                                     <input type="checkbox" id="zhucexieyi" checked style="outline: none">
+                                     <label for="zhucexieyi">我已阅读并同意</label>
+                                     <a target="_blank" href="/agreement">《数字镭协议》</a>
+                                 </div>
+                                 <!--<div class="fr">-->
+                                     <!--<span class="f14 col666">已有账号，<a class="cole84 col666" href="/Index/login">马上登录</a></span>-->
+
+                                 <!--</div>-->
+                             </div>
+                             <div id='errdiv' style='color:red;font-size:20px;text-align:center;'></div>
+                             <div class="denglu login_zhuce">
+                                 <input type="hidden" name="opt" value="register">
+                                 <button  class=""  id="btnregister">立即注册</button>
+                             </div>
+                         </div>
+
+                     </form>
+                     <!--马上登录-->
+                     <form name="login_form" action="/Index/login" method="post" id="login_form" style="padding-bottom:1px;">
+                         <div class="form-con" style="display: none;">
+                             <div class="login_userName userName">
+                                 <i class="iconfont icon-username">&#xe665;</i>
+                                 <input type="text" name="username" id="login_name" placeholder="请输入您的用户名" class="shurukuang">
+                                 <div id="loginuser-err-i" class="prompt"><i class="iconfont icon-error">&#xe668;</i>请输入您的手机号/用户名</div>
+                             </div>
+                             <div class="passWord">
+                                 <i class="iconfont icon-username">&#xe667;</i>
+                                 <input type="password" name="pass" id="login_pass" placeholder="密码" class="shurukuang">
+                                 <div id="loginpass-err-i" class="prompt"><i class="iconfont icon-error">&#xe668;</i>请输入您的密码</div>
+                             </div>
+                             <div class="login-check clearfix" style="margin-top:15px;">
+
+                                 <input type="checkbox" class="login-checkbox" style="margin-right: 6px;">
+                                 <p>7天内自动登录</p>
+                             </div>
+                             <div class="denglu login_denglu">
+                                 <input type="hidden" name="opt" value="login">
+                                 <button type="button" id="login_submit">立即登录</button>
+                             </div>
+                             <div class="forgetpass clearfix">
+                                 <a href="/register" style="">注册新账号</a>
+                                 <a href="" style="padding:0 10px;">|</a>
+                                 <a href="/findpass">忘记密码？</a>
+                             </div>
+                         </div>
+                     </form>
+
+                                      <div class="user-wx">
+                     <p>
+                         <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/showqrcode%20_ewm.jpg">
+                     </p>
+                     <p class="user-wx-text">用个人微信号扫描获取验证码</p>
+                 </div>
+
+             </div>
+         </div>
+     </div>
+ </div>
+
+<script src="http://image.dmlei.com/Public/static/DmleiV2/js/form.js"></script>
+<script type="text/javascript" src="http://image.dmlei.com/Public/static/mobile/js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="http://image.dmlei.com/Public/static/mobile/js/jquery.glide.js"></script>
+<script type="text/javascript" src="http://image.dmlei.com/Public/static/mobile/js/script.js"></script>
+<script>
+    //微信扫一扫登录
+    $("#wx-scan").click(function(){
+        $('#vercode').attr('placeholder','请输入微信验证码');
+        $(".user-wx").addClass('user-wx-show');
+        $("#wxregister-text").css('display','none');
+        $("#btnverycode").css('display','none');
+        $("#phone-register").css('display','block');
+    })
+    $("#phone-register").click(function(){
+        $('#vercode').attr('placeholder','请输入短信验证码');
+        $(".user-wx").removeClass('user-wx-show');
+        $("#wxregister-text").css('display','block');
+        $("#btnverycode").css('display','block');
+        $("#phone-register").css('display','none');
+    })
+
+     function changeVerify(){
+        $('.verify').attr('src',"/Misc/verify?num="+Math.floor(Math.random()*(1000+1)));
+    }
+  $("#buttt").click(function(){
+                window.location.href="/System/index";
+             });
+            $("#buttto").click(function(){
+                 window.location.href="/System/index";
+            });
+    </script>
+            <!--<div class="banner-btn-box">-->
+                <!--<a href="/register/opt/friend" class="banner-btn">立即体验</a>-->
+            <!--</div>-->
+
+        </div>
+      <!--登录-->
+    </div>
+</div>
+<!--banner END-->
+<!--业务介绍-->
+<div class="friends">
+    <div class="contain">
+        <h1 class="big-title">业务介绍</h1>
+        <div class="friend-ywjs-box clearfix">
+            <div class="friend-ywjs-left fl">
+                <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-ywjs.png" alt="">
+            </div>
+            <div class="friend-ywjs fl">
+                <ul>
+                    <li class="clearfix">
+                        <div class="f-ywjs-left fl">
+                            <i class="iconfont icon-friend-ywjs">&#xe6a4;</i>
+                        </div>
+                        <div class="f-ywjs-right fl">
+                            <h5 style="padding-top:8px;">关联实体店面</h5>
+                            <p>门店信息标识，增强用户“身边”感知</p>
+                        </div>
+                    </li>
+                    <li class="clearfix">
+                        <div class="f-ywjs-left fl">
+                            <i class="iconfont icon-friend-ywjs">&#xe6a2;</i>
+                        </div>
+                        <div class="f-ywjs-right fl">
+                            <h5>指定人群投放</h5>
+                            <p>2500个商圈、4000过个区县，更加细致的地域定向投放 <br>
+                                自定义设置每日投放时间段，自选不同类型的投放人群</p>
+                        </div>
+                    </li>
+                    <li class="clearfix">
+                        <div class="f-ywjs-left fl">
+                            <i class="iconfont icon-friend-ywjs">&#xe6a3;</i>
+                        </div>
+                        <div class="f-ywjs-right fl">
+                            <h5>投放性价比高</h5>
+                            <p>每日预算300元起，广告最长可投放10天 <br>
+                                按CPM（千次曝光）计费</p>
+                        </div>
+                    </li>
+                    <div class="friend-ywjs-price">
+                        <span>开户费10000元起</span>
+                        <a href="/register/opt/friend_strategy">详细报价</a>
+                    </div>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<!--朋友圈广告优势-->
+<div class="friend-ys">
+    <div class="contain">
+        <h1 class="big-title">朋友圈广告优势</h1>
+        <ul class="clearfix">
+            <li class="friend-ys-item">
+                <div class="friend-ys-item-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-ys1.png" alt="">
+                </div>
+                <div class="friend-ys-text">
+                    <h5>广告覆盖率广</h5>
+                    <p>微信每月活跃用户达到 <span>7.6亿+</span>，其中用户年龄<br>
+                        主要集中于 <span>20~40岁</span>，一线城市渗透率为93%，<br>
+                        图文消息阅览占 <span>30亿+</span>。</p>
+                </div>
+            </li>
+            <li class="friend-ys-item">
+                <div class="friend-ys-item-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-ys2.png" alt="">
+                </div>
+                <div class="friend-ys-text">
+                    <h5>精准人群投放</h5>
+                    <p>目前支持按照地域、性别年龄、婚恋情况、学历、<br>
+                        手机操作系统、联网状况、兴趣标签等进行精准投放。</p>
+                </div>
+            </li>
+            <li class="friend-ys-item nomargin-r">
+                <div class="friend-ys-item-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-ys31.png" alt="">
+                </div>
+                <div class="friend-ys-text">
+                    <h5>多种推广方式</h5>
+                    <p>品牌活动推广、移动应用推广、公众号推广、<br>
+                        卡券推广、本地推广</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--其他投放形式-->
+<div class="friend-ys" style="background: #fff;height:919px;">
+    <div class="contain">
+        <h1 class="big-title">其他投放形式</h1>
+        <div class="friend-other">
+            <ul id="tabs_tising" class="video_form smartul clearfix">
+                <li class="">
+                    <div class="focus_bor">
+                        <span class="demoSpan1"></span>
+                    </div>
+                    <i class="iconfont icon-friend-other">&#xe6a5;</i>
+                    <span>品牌推广</span>
+                </li>
+                <li class="">
+                    <div class="focus_bor"><span class="demoSpan1"></span></div>
+                    <i class="iconfont icon-friend-other">&#xe6a7;</i>
+                    <span>APP推广</span>
+                </li>
+                <li class="">
+                    <div class="focus_bor"><span class="demoSpan1"></span></div>
+                    <i class="iconfont icon-friend-other">&#xe6a9;</i>
+                    <span>本地推广</span>
+                </li>
+                <li class="">
+                    <div class="focus_bor"><span class="demoSpan1"></span></div>
+                    <i class="iconfont icon-friend-other">&#xe6a6;</i>
+                    <span>卡券推广</span>
+                </li>
+                <li class="">
+                    <div class="focus_bor"><span class="demoSpan1"></span></div>
+                    <i class="iconfont icon-friend-other">&#xe6a8;</i>
+                    <span>公众号推广</span>
+                </li>
+            </ul>
+            <div class="friend-other-box">
+                <div class="friend-other-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-other4.png" alt="">
+                </div>
+                <div class="friend-other-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-other22.png" alt="">
+                </div>
+                <div class="friend-other-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-other3.png" alt="">
+                </div>
+                <div class="friend-other-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-other5.png" alt="">
+                </div>
+                <div class="friend-other-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-other1.png" alt="">
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--大数据支撑，精准分析投放效果-->
+<div class="friend-data-box">
+    <div class="contain">
+        <div class="friend-data-box">
+            <h1 class="big-title">大数据支撑，精准分析投放效果</h1>
+            <div class="friend-data clearfix">
+                <div class="friend-data-left friend-data-item fl">
+                    <div>
+                        <h5>分享数据</h5>
+                        <p>分享给好友量、分享至朋友圈量  用以评估用户对品牌及方 <br>
+                            案的认可度和主动传播意愿</p>
+                    </div>
+                    <div class="friend-data-center-left">
+                        <h5>关注数据</h5>
+                        <p>头像&昵称点击率、用户关注转化率  评估广告主 <br>
+                            品牌影响力</p>
+                    </div>
+                    <div>
+                        <h5>定制数据</h5>
+                        <p>试驾预约量、购买转化量  其他客户关注的数据</p>
+                    </div>
+                </div>
+
+                <div class="friend-data-right friend-data-item fr">
+                    <div style="margin-bottom:70px;">
+                        <h5>曝光数据</h5>
+                        <p>总曝光、免费曝光  用以评估广告方案触达用户的范围</p>
+                    </div>
+                    <div class="friend-data-center-right" style="margin-bottom:70px;">
+                        <h5>点击数据 </h5>
+                        <p>广告图片点击率、详情页点击率  用以评估方案质量</p>
+                    </div>
+                    <div>
+                        <h5>互动数据 </h5>
+                        <p>点赞率、评论率、不感兴趣占比率  用以评估用户与广告 <br>
+                            方案的互动性</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--经典案例-->
+<div class="friend-case" style="background: #fff;border-bottom:1px solid #ddd;">
+    <div class="contain">
+        <h1 class="big-title">经典案例</h1>
+        <div class="live-main" id="live-banner" style="height:700px;">
+            <div class="live-box" id="live-banner-wrap" style="height:641px;margin-top:30px;">
+                <div class="activity-content clearfix">
+                    <div class="friend-case-left fl">
+                        <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-case33.png" alt="">
+                    </div>
+                    <div class="friend-case-right fl">
+                        <ul class="friend-case-item1 friend-case-item clearfix">
+                            <li>
+                                <div class="color4c9fed"><span>35</span>万</div>
+                                <p class="color4c9fed">社交互动参与次数</p>
+                            </li>
+                            <li>
+                                <div class="colore95f51"><span>6000</span>张</div>
+                                <p class="colore95f51">线上销售</p>
+                            </li>
+                            <li>
+                                <div class="colore5FCB65"><span>0.6</span>+</div>
+                                <p class="colore5FCB65">ROI</p>
+                            </li>
+                        </ul>
+                        <h5>武汉欢乐谷</h5>
+                        <p>武汉欢乐谷巧妙借助万圣节契机，通过基础定向+LBS数据定制，向学生、
+                            商圈和娱乐场所爱好者精准推送“不开心，见鬼去”广告专题，  在本地
+                            年轻酷玩一族爆发，获得消费者追捧，线上售票量突破预期。</p>
+                    </div>
+                </div>
+                <div class="activity-content clearfix">
+                    <div class="friend-case-left fl">
+                        <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-case11.png" alt="">
+                    </div>
+                    <div class="friend-case-right fl">
+                        <ul class="friend-case-item2 friend-case-item clearfix">
+                            <li>
+                                <div class="color4c9fed"><span>1.3</span>亿</div>
+                                <p class="color4c9fed">曝光次数</p>
+                            </li>
+                            <li>
+                                <div class="colore95f51"><span>14</span>%</div>
+                                <p class="colore95f51">小视频点击率</p>
+                            </li>
+                            <li>
+                                <div class="colore5FCB65"><span>106</span>万</div>
+                                <p class="colore5FCB65">点赞&评论</p>
+                            </li>
+                        </ul>
+                        <h5>宝马中国《贪吃蛇》</h5>
+                        <p>宝马作为第一批内测客户，充分利用了视频“动态”“丰满”的特性，利用外层小视频  在朋友圈上演了一场“速度与快乐”大戏，收获用户喜爱。
+                        </p>
+                    </div>
+                </div>
+                <div class="activity-content clearfix">
+                    <div class="friend-case-left fl">
+                        <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/friend-case22.png" alt="">
+                    </div>
+                    <div class="friend-case-right fl">
+                        <ul class="friend-case-item3 friend-case-item clearfix">
+                            <li>
+                                <div class="color4c9fed"><span>35</span>万</div>
+                                <p class="color4c9fed">社交互动参与次数</p>
+                            </li>
+                            <li>
+                                <div class="colore95f51"><span>6</span>万</div>
+                                <p class="colore95f51">千万级别墅订单</p>
+                            </li>
+                        </ul>
+                        <h5>坤和和家园</h5>
+                        <p>定制LBS数据，寻找别墅产品的目标用户，向高端场所工作、居住、消  费的人群精准定向投放，最小的投入换取6套别墅的销售。</p>
+
+                         <p style="color:#bcbcbc;"> 坤和和家园别墅售价1400+万元/套；广告上线一周内，共售出6套，成交用户均表示看到朋友圈广告而来。</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--服务流程-->
+<div class="contain">
+    <div class="step">
+        <h1 class="big-title">服务流程</h1>
+        <div class="friend-step clearfix">
+            <div class="step-item">
+                <div class="step-circle">
+                    <i class="iconfont step-icon">&#xe61c;</i>
+                </div>
+                <p class="co6">1.申请公众号并开通广告主</p>
+            </div>
+            <div class="step-item">
+                <div class="step-circle">
+                    <i class="iconfont step-icon">&#xe689;</i>
+                </div>
+                <p class="co6">2.账户充值</p>
+            </div>
+            <div class="step-item">
+                <div class="step-circle">
+                    <i class="iconfont step-icon">&#xe69e;</i>
+                </div>
+                <p class="co6">3.创建广告</p>
+            </div>
+            <div class="step-item">
+                <div class="step-circle">
+                    <i class="iconfont step-icon">&#xe69d;</i>
+                </div>
+                <p class="co6">4.广告审核</p>
+            </div>
+            <div class="step-item">
+                <div class="step-circle">
+                    <i class="iconfont step-icon">&#xe687;</i>
+                </div>
+                <p class="co6">5.广告上线</p>
+            </div>
+            <div class="step-item nomargin-r">
+                <div class="step-circle">
+                    <i class="iconfont step-icon">&#xe60a;</i>
+                </div>
+                <p class="co6">6.广告结案</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--footer-->
+<!--footer-->
+<div class="footer">
+    <div class="contain">
+        <div class="footer-padding clearfix">
+            <!--帮助中心-->
+            <div class="footer-item">
+                <div class="footer-item-list">
+                    <h4>帮助中心</h4>
+                    <ul class="footer-list">
+                        <li><a target="_blank" href="/support">注册及密码</a></li>
+                        <li><a target="_blank" href="/support">关于投放</a></li>
+                        <li><a target="_blank" href="/support">财务相关</a></li>
+                        <li><a target="_blank" href="/support">常见问题</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!--产品中心-->
+            <div class="footer-item">
+                <div class="footer-item-list">
+                    <h4>产品中心</h4>
+                    <ul class="footer-list">
+                        <div class="footer-list-left">
+                            <li><a target="_blank" href="/contribute#dingwei">热门套餐</a></li>
+                            <li><a target="_blank" href="/friends">朋友圈广告</a></li>
+                            <li><a target="_blank" href="/reputations">百科营销</a></li>
+                            <li><a target="_blank" href="/contribute">新闻投稿</a></li>
+                            <li><a target="_blank" href="/weibo">微博推广</a></li>
+                        </div>
+                        <div class="fl">
+                            <li><a target="_blank" href="/marketing">精准营销</a></li>
+                            <li><a target="_blank" href="/lives">直播网红</a></li>
+                            <li><a target="_blank" href="/reputations">问答营销</a></li>
+                            <li><a target="_blank" href="/wechat">微信推广</a></li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <!--微信热文-->
+            <div class="footer-item">
+                <div class="footer-item-list">
+                    <h4>微信热文</h4>
+                    <ul class="footer-list">
+                        <div class="footer-list-left">
+                            <li><a target="_blank" href="/wxhot">热门</a></li>
+                            <li><a target="_blank" href="/wxhotcatelog/67">美食</a></li>
+                            <li><a target="_blank" href="/wxhotcatelog/66">电商</a></li>
+                            <li><a target="_blank" href="/wxhotcatelog/56">汽车</a></li>
+                        </div>
+
+                        <div class="fl">
+                            <li><a target="_blank" href="/wxhotcatelog/55">时尚/女性</a></li>
+                            <li><a target="_blank" href="/wxhotcatelog/61">母婴/育儿</a></li>
+                            <li><a target="_blank" href="/wxhotcatelog/68">健康养生</a></li>
+                            <li><a target="_blank" href="/wxhotcatelog/65">IT/互联网</a></li>
+                            <li><a target="_blank" href="/wxhotcatelog/60">商业财经</a></li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <!--服务中心-->
+            <div class="footer-item">
+                <div class="footer-item-list">
+                    <h4>服务中心</h4>
+                    <ul class="footer-list">
+                        <li><a target="_blank" href="/cooperation">招商合作</a></li>
+                        <li><a target="_blank" href="/project">新三板专题</a></li>
+                        <li><a target="_blank" href="/yxxy">营销学院</a></li>
+                        <li><a target="_blank" href="/marketingtech">游戏版号</a></li>
+                        <!--<li><a target="_blank" href="/Index/wxhot">微信热文</a></li>
+                        <li><a target="_blank" href="/Index/hotwx">热门微信</a></li>
+                        <li><a target="_blank" href="/Index/wxhotinfo">热门微信详情</a></li>-->
+                    </ul>
+                </div>
+            </div>
+            <!--关于我们-->
+            <div class="footer-item">
+                <div class="footer-item-list">
+                    <h4>关于我们</h4>
+                    <ul class="footer-list">
+                        <li><a target="_blank" href="/about">企业简介</a></li>
+                        <li><a target="_blank" href="/notice">活动公告</a></li>
+                        <li><a target="_blank" href="/trick">营销技巧</a></li>
+                        <li><a target="_blank" href="/contact">联系我们</a></li>
+                        <li><a target="_blank" href="/sitemap">网站地图</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!--客服热线-->
+            <div class="footer-kf">
+                <h4>客服热线</h4>
+                <p>400-6677-567</p>
+                <div class="lxwm">
+                    <p>
+                        <a><img src="http://7xnlea.com1.z0.glb.clouddn.com/red-qq.png"></a>4006677567
+                    </p>
+                    <p>
+                        <a><img src="http://7xnlea.com1.z0.glb.clouddn.com/red-yx.png"></a>bd@dmlei.com
+                    </p>
+                </div>
+            </div>
+            <div class="ewm">
+                <div class="ewm-img">
+                    <img src="http://7xnlea.com2.z0.glb.qiniucdn.com/ewm.jpg">
+                </div>
+                <p>微信公众号</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!--友情链接-->
+<div class="friendlink">
+    <div class="contain">
+                <p id="copyright">
+            版权所有©北京镭灵科技有限公司 2015-2016 &nbsp;<a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">京ICP备15050855号</a><a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">京ICP证161187号</a>
+        </p>
+    </div>
+</div>
+</body>
+<script src="http://image.dmlei.com/Public/static/DmleiV2/js/form.js"></script>
+<script src="http://image.dmlei.com/Public/static/DmleiV2/js/shuffling.js"></script>
+<script type="text/javascript">
+    BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006677567, selector: 'BizQQWPA'});
+    BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4006677567, selector: 'help_QQWPA'});
+
+    //其他投放形式tab选项卡的实现
+    $("#tabs_tising li").hover(function () {
+        $("#tabs_tising li").eq($(this).index()).addClass("active").siblings().removeClass('active');
+        $(".friend-other-box .friend-other-img").hide().eq($(this).index()).show();
+    });
+    $("#tabs_tising li").eq(0).addClass("active");
+    $(".friend-other-box .friend-other-img").eq(0).css("display","block");
+</script>
+</html><script type="text/javascript">var PARSE_VAR = {"title":"DMLei \u6570\u5b57\u956d-\u81ea\u52a9\u7cbe\u51c6\u8425\u9500\u5e73\u53f0\uff01","keyword":"\u670b\u53cb\u5708\u63a8\u5e7f,\u5fae\u4fe1\u670b\u53cb\u5708\u63a8\u5e7f,\u670b\u53cb\u5708\u63a8\u5e7f\u5e7f\u544a,\u670b\u53cb\u5708\u63a8\u5e7f\u65b9\u6848,\u5fae\u4fe1\u670b\u53cb\u5708\u63a8\u5e7f\u6587\u6848","description":"\u670b\u53cb\u5708\u63a8\u5e7f\u9996\u9009DMLei(\u6570\u5b57\u956d)\uff0c\u4e3a\u60a8\u63d0\u4f9b\u5168\u9762\u7684\u670b\u53cb\u5708\u63a8\u5e7f\u65b9\u6848\uff0c\u5fae\u4fe1\u670b\u53cb\u5708\u63a8\u5e7f\uff0c\u8986\u76d6\u4e03\u4ebf\u7528\u6237\u91cf\uff0c\u540c\u6837\u7684\u5e7f\u544a\uff0c\u4e0d\u4e00\u6837\u7684\u8425\u9500\u6548\u679c\u3002\u540c\u65f6,DMLei(\u6570\u5b57\u956d)\u62e5\u6709\u8d44\u6df1\u4e13\u4e1a\u6587\u6848\u64b0\u5199\u4eba\u5458\uff0c\u4e3a\u60a8\u64b0\u5199\u5fae\u4fe1\u670b\u53cb\u5708\u63a8\u5e7f\u6587\u6848\uff0c\u4e0d\u4e00\u6837\u7684\u670b\u53cb\u5708\u63a8\u5e7f\u6587\u6848\uff0c\u8ba9\u60a8\u7684\u54c1\u724c\u4e0e\u4f17\u4e0d\u540c\uff01","biaoshi":"friends"};</script>

@@ -1,0 +1,36 @@
+define("a/testdata.js"/*tpa=http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/a/a/testdata.js*/,[],function(){
+"use strict";
+var i=[{
+ad_desc:"",
+aid:"1000001689",
+app_info:{
+category:[],
+url_scheme:""
+},
+apurl:"http://ad.wx.com:12638/cgi-bin/exposure?viewid=%7B%22count%22%3A+%221%22%2C+%22wxuin%22%3A+%222876363900%22%2C+%22datafmt%22%3A+%22json%22%2C+%22posid%22%3A+%2272058780271891663%22%2C+%22pass_ticket%22%3A+%22fxR2QWuVME%25252BTCsnivJIiNzKFMYhGJWYLNwKb2fbeJAgy0%25252Fnyqv3pQbRBjWOVHVHW%22%2C+%22charset%22%3A+%22utf8%22%2C+%22uin%22%3A+%22378539367%22%2C+%22ext%22%3A+%7B%22req%22%3A+%7B%22c_ua%22%3A+%22Mozilla%2F5.0+%28Linux%3B+Android+5.1%3B+M571C+Build%2FLMY47D%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F37.0.0.0+Mobile+MQQBrowser%2F6.8+TBS%2F036869+Safari%2F537.36+MicroMessenger%2F6.3.27.880+NetType%2FWIFI+Language%2Fzh_CN%22%2C+%22c_loc%22%3A+994840%2C+%22wuid%22%3A+%22oDdoCt82SHyIYvOr5ECuiurwwiMc%22%2C+%22hosttype%22%3A+%22wechat%22%2C+%22c_os%22%3A+%22android%22%2C+%22c_ip%22%3A+%2221.1.0.0%22%2C+%22appid%22%3A+%22wx7df770943ba53b7a%22%2C+%22conn%22%3A+1%7D%2C+%22pos%22%3A+%7B%22index_0%22%3A+%7B%22msg_daily_idx%22%3A+1%2C+%22msgid%22%3A+2658996622%2C+%22itemidx%22%3A+2%2C+%22msg_time%22%3A+1477545714%2C+%22wx_share%22%3A+1%7D%7D%7D%2C+%22adposcount%22%3A+%221%22%7D",
+biz_appid:"wx9b7312becfa82023",
+biz_info:{
+biz_uin:3084043417,
+head_img:"http://wx.qlogo.cn/mmhead/Q3auHgzwzM4j71nP7VK3RCF9M2Tz3FqAZ2aOHCiceD79K4zJr43pX4g/0",
+is_subscribed:1,
+nick_name:"xxxxxxxxxxxxxxxxxxxxxxxxx",
+user_name:"gh_9113df30b5f3"
+},
+group_id:"",
+hint_txt:"是大家开发商，的空间家第三方科技加快",
+image_url:"http://mmbiz.qpic.cn/mmbiz_jpg/H4ZJ3Ovyd4G2r4rbiaGatpnruicSHoyhrqoG1vHzRkWRH2q895j1MtooTyM0DM8BkMAGGXqWEeOqTLUTMDFDaUsA/0?wx_fmt=jpeg",
+is_cpm:0,
+logo:"",
+pos_type:0,
+pt:115,
+rl:"http://ad.wx.com:12638/cgi-bin/click?viewid=viewid=%7B%22count%22%3A+%221%22%2C+%22wxuin%22%3A+%222876363900%22%2C+%22datafmt%22%3A+%22json%22%2C+%22posid%22%3A+%2272058780271891663%22%2C+%22pass_ticket%22%3A+%22fxR2QWuVME%25252BTCsnivJIiNzKFMYhGJWYLNwKb2fbeJAgy0%25252Fnyqv3pQbRBjWOVHVHW%22%2C+%22charset%22%3A+%22utf8%22%2C+%22uin%22%3A+%22378539367%22%2C+%22ext%22%3A+%7B%22req%22%3A+%7B%22c_ua%22%3A+%22Mozilla%2F5.0+%28Linux%3B+Android+5.1%3B+M571C+Build%2FLMY47D%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F37.0.0.0+Mobile+MQQBrowser%2F6.8+TBS%2F036869+Safari%2F537.36+MicroMessenger%2F6.3.27.880+NetType%2FWIFI+Language%2Fzh_CN%22%2C+%22c_loc%22%3A+994840%2C+%22wuid%22%3A+%22oDdoCt82SHyIYvOr5ECuiurwwiMc%22%2C+%22hosttype%22%3A+%22wechat%22%2C+%22c_os%22%3A+%22android%22%2C+%22c_ip%22%3A+%2221.1.0.0%22%2C+%22appid%22%3A+%22wx7df770943ba53b7a%22%2C+%22conn%22%3A+1%7D%2C+%22pos%22%3A+%7B%22index_0%22%3A+%7B%22msg_daily_idx%22%3A+1%2C+%22msgid%22%3A+2658996622%2C+%22itemidx%22%3A+2%2C+%22msg_time%22%3A+1477545714%2C+%22wx_share%22%3A+1%7D%7D%7D%2C+%22adposcount%22%3A+%221%22%7D",
+ticket:"23unxvwxxkxu6",
+traceid:"0c0a9d0a000070c6551010290004378e",
+type:"0",
+url:"http://mp.weixin.qq.com/mp/ad_biz_info?__biz=MzA4NDA0MzQxNw==&weixinadkey=733e9a0e140dcab67bdb9287f6acac7a2fa5da72494cdd1cb082bfa6fdedade25379ae9242bed2a8e369a302bfba466c&ticket=23unxvwxxkxu6&gdt_vid=0c0a9d0a000070c6551010290004378e&weixinadinfo=1000001689.0c0a9d0a000070c6551010290004378e.0.1#wechat_redirect",
+watermark_type:0
+}];
+return{
+data:i
+};
+});
