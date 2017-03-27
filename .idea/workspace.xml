@@ -2,7 +2,151 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7f1eda-94fa-4649-a30a-02a8dc0a4d11" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/116255889141528887.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/294699315983106719.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/458262536625107557.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/532843786642265122.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/78515898103722117.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/KAYLA涓婚〉.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/KAYLA澶村儚.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/ZDlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/about_chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-baike11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-baike22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-baike33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-kbyx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-wenda11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-wenda22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-wenda33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/bkzy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/bonnie澶村儚.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/case-lunbobg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmlei-help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-medias-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-part2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-part4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-services1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-services2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-services3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-UCliulanqi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-aiqiyi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-aliyun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-fenghuangyidong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-guangdiantong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-jrtt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-liebaoyidong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-momo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-souhuhuisuan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-wangyiyoudao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-xinlangfuyi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-youku.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/ewm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/fenGe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/fenGe2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/fenGe3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-case11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-case22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-case33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-hlg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-khjy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-step.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-tcs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ys1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ys2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ys31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ywjs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/help-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index-banner-252.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index-banner-ctq2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index-banner26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index_banner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/jxal-banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/kbyx-why.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/line-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/live-help1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/live_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/live_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/login-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/bao-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/bao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/baomi-kl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/baomi-t-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/l-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/nt-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/r-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/st-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/now.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/page-pyq-banner11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/page-zbwh-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/platform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/reputation-item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/reputation-wdyx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/seo-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/shoujihao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/showqrcode _ewm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/spriteimg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/step3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/taammmy涓婚〉.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/taammmy澶村儚.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/telphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/video-verified-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/vikizhuye.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/viki澶村儚.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/wx_login_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-coopration.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-supply.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-version.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-version1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-version2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zddz-banner11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/dmleiV2.css-20161206.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/highlight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/iconfont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/mobile/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/myClearstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/wxhot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/zhongdaV2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/zhongdaV2.css-20170303.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/belatedPNG.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/jquery-3.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/mobile/jquery-1.7.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/mobile/jquery.glide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/mobile/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/shuffling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/shuffling1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/shuffling3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foreground/index.htm" afterPath="$PROJECT_DIR$/foreground/index.htm" />
     </list>
     <ignored path="tp5-lei.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,25 +171,100 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foreground/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="292">
+              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
               <folding>
-                <marker date="1490527182000" expanded="true" signature="151658:151673" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="151707:151722" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="151882:151897" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="152545:152560" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="152601:152616" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="152770:152785" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="152989:153004" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="153038:153053" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="153213:153228" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="153427:153442" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="153476:153491" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="153651:153666" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="153884:153899" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="154296:154311" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="154345:154360" ph="..." />
-                <marker date="1490527182000" expanded="true" signature="154520:154535" ph="..." />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#br#0;n#span#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#span#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1490587541000" expanded="false" signature="2201:2710" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="150492:150507" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="150541:150556" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="150716:150731" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="151379:151394" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="151435:151450" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="151604:151619" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="151823:151838" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="151872:151887" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="152047:152062" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="152261:152276" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="152310:152325" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="152485:152500" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="152718:152733" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="153130:153145" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="153179:153194" ph="..." />
+                <marker date="1490587541000" expanded="true" signature="153354:153369" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.glide.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foreground/js/mobile/jquery.glide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foreground/dmlei/www.zhongda.com/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="306" column="93" selection-start-line="306" selection-start-column="93" selection-end-line="306" selection-end-column="93" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#18738#19002#0" expanded="false" />
+                <element signature="e#19045#19313#0" expanded="false" />
+                <element signature="e#19344#19440#0" expanded="false" />
+                <element signature="e#19471#19561#0" expanded="false" />
+                <element signature="e#19605#19695#0" expanded="false" />
+                <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1490580346000" expanded="true" signature="142725:142740" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="142774:142789" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="142949:142964" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="143612:143627" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="143668:143683" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="143837:143852" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="144056:144071" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="144105:144120" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="144280:144295" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="144494:144509" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="144543:144558" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="144718:144733" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="144951:144966" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="145363:145378" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="145412:145427" ph="..." />
+                <marker date="1490580346000" expanded="true" signature="145587:145602" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.glide.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foreground/dmlei/image.zhongda.com/Public/static/mobile/js/jquery.glide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,6 +275,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/foreground/dmlei/www.zhongda.com/index.htm" />
+        <option value="$PROJECT_DIR$/foreground/index.htm" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -64,8 +291,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="298" />
-    <option name="y" value="31" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="721" />
   </component>
@@ -94,8 +320,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,12 +354,25 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vshooting-api" />
+    <property name="SearchEverywhereHistoryKey" value="index.ht&#9;FILE&#9;file:///Users/didi/ludexiang/php/workspace/tp5-lei/foreground/dmlei/www.zhongda.com/index.htm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/foreground/js/mobile" />
+      <recent name="$PROJECT_DIR$/foreground/images/index/mobile/images" />
+      <recent name="$PROJECT_DIR$/foreground/images/index" />
+      <recent name="$PROJECT_DIR$/foreground/css" />
+      <recent name="$PROJECT_DIR$/foreground/js" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -172,6 +409,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6a7f1eda-94fa-4649-a30a-02a8dc0a4d11" name="Default" comment="" />
@@ -182,24 +422,25 @@
       <workItem from="1490527188701" duration="440000" />
       <workItem from="1490528695670" duration="292000" />
       <workItem from="1490529388378" duration="423000" />
-      <workItem from="1490530136831" duration="236000" />
+      <workItem from="1490530136831" duration="660000" />
+      <workItem from="1490580281694" duration="5528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1391000" />
+    <option name="totallyTimeSpent" value="7343000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="298" y="31" width="1280" height="721" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="721" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2657512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26494345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33227345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -211,12 +452,33 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33227345" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26494345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -225,47 +487,321 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490527182000" expanded="true" signature="151658:151673" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="151707:151722" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="151882:151897" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152545:152560" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152601:152616" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152770:152785" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152989:153004" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153038:153053" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153213:153228" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153427:153442" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153476:153491" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153651:153666" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153884:153899" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="154296:154311" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="154345:154360" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="154520:154535" ph="..." />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#br#0;n#span#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1490587541000" expanded="false" signature="2201:2710" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150492:150507" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150541:150556" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150716:150731" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151379:151394" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151435:151450" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151604:151619" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151823:151838" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151872:151887" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152047:152062" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152261:152276" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152310:152325" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152485:152500" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152718:152733" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153130:153145" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153179:153194" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153354:153369" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foreground/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490527182000" expanded="true" signature="151658:151673" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="151707:151722" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="151882:151897" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152545:152560" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152601:152616" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152770:152785" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="152989:153004" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153038:153053" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153213:153228" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153427:153442" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153476:153491" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153651:153666" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="153884:153899" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="154296:154311" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="154345:154360" ph="..." />
-            <marker date="1490527182000" expanded="true" signature="154520:154535" ph="..." />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#br#0;n#span#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1490587541000" expanded="false" signature="2201:2710" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150492:150507" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150541:150556" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150716:150731" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151379:151394" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151435:151450" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151604:151619" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151823:151838" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151872:151887" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152047:152062" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152261:152276" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152310:152325" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152485:152500" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152718:152733" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153130:153145" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153179:153194" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153354:153369" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/js/belatedPNG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/濡よ枃涓婚〉.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/鍦熸嫧榧犲ご鍍忕敺.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/甯冧竵甯冧竵澶村儚.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/甯冧竵甯冧竵.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/灏忓畨濞滃ご鍍忓コ.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/濡よ枃澶村儚.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/姗欏瓙xin澶村儚.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/姗欏瓙xin涓婚〉.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/dmleiv2-services2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/viki澶村儚.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/css/mobile/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/.reputation-resources1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/dmlei/image.zhongda.com/Public/static/mobile/images/bao-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/mobile/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/mobile/images/r-btn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/ZDlogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/telphone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/mobile/images/baomi-t-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/dmlei/image.zhongda.com/Public/static/mobile/images/baomi-t-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/dmlei/image.zhongda.com/Public/static/mobile/images/baomi-kl.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/dmlei/image.zhongda.com/Public/static/mobile/images/bao.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/dmlei/image.zhongda.com/Public/static/mobile/images/nt-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/mobile/images/bao.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/images/index/mobile/images/l-btn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/dmlei/image.zhongda.com/Public/static/mobile/js/jquery.glide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/dmlei/www.zhongda.com/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="306" column="93" selection-start-line="306" selection-start-column="93" selection-end-line="306" selection-end-column="93" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#18738#19002#0" expanded="false" />
+            <element signature="e#19045#19313#0" expanded="false" />
+            <element signature="e#19344#19440#0" expanded="false" />
+            <element signature="e#19471#19561#0" expanded="false" />
+            <element signature="e#19605#19695#0" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1490580346000" expanded="true" signature="142725:142740" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="142774:142789" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="142949:142964" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="143612:143627" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="143668:143683" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="143837:143852" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="144056:144071" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="144105:144120" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="144280:144295" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="144494:144509" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="144543:144558" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="144718:144733" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="144951:144966" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="145363:145378" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="145412:145427" ph="..." />
+            <marker date="1490580346000" expanded="true" signature="145587:145602" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/js/mobile/jquery.glide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#br#0;n#span#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#6;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1490587541000" expanded="false" signature="2201:2710" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150492:150507" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150541:150556" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="150716:150731" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151379:151394" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151435:151450" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151604:151619" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151823:151838" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="151872:151887" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152047:152062" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152261:152276" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152310:152325" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152485:152500" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="152718:152733" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153130:153145" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153179:153194" ph="..." />
+            <marker date="1490587541000" expanded="true" signature="153354:153369" ph="..." />
           </folding>
         </state>
       </provider>

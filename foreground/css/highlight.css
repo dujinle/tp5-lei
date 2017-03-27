@@ -1,0 +1,51 @@
+
+*{ margin:0; padding:0; list-style:none;}
+img{ border:0;}
+#vivo-contain .social-event{width:100%; margin-top: 20px; border-top:1px #e7e7e7 solid; border-top:1px rgba(0,0,0,.05) solid; _background:#fff;}
+#vivo-contain .focus-event{z-index:99; width:100%; height: 770px; position:relative; margin:auto; margin-top: -500px; -webkit-transform: translate3d(0,0,0); -moz-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0);}
+#vivo-contain .focus-gallery{width:100%; height:auto; position:relative; margin-top:-1px; z-index:1; overflow: hidden;}
+#vivo-contain .key-event{width:1104px; height:240px; margin:auto; position:relative;}
+.focus-gallery>ul{display:block; position:relative; z-index:150; height:500px;}
+.focus-gallery>ul>li{display:none; width:100%; height:500px; position:absolute; top:0; left:0; z-index:1;}
+.focus-gallery>ul>li a{display:block;height:100%;}
+.focus-gallery>ul>li .high-box{width:1000px; height:482px; position:relative; margin:auto;}
+.high-box .figure{position:absolute; top:0; overflow:hidden; z-index:10;}
+.high-box h2{display:block; position:relative; z-index:99;}
+.switch-high{ height:28px; line-height:28px; text-align:center; position:absolute; z-index:1005; top:450px;
+border-radius: 25px;left:50%;margin-left:-54px;background: rgba(0, 0, 0, 0.5);}
+.slide-shortcut a{position:absolute;top:209px;width:64px;height:64px;z-index:5000;}
+.slide-shortcut #slide-prev{left:15px;background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/lv-left.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/lv-left.png*/no-repeat center}
+.slide-shortcut #slide-next{right:15px;background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/lv-right.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/lv-right.png*/no-repeat center}
+.switch-high a{width:16px; height:16px; display:inline-block; margin:6px 10px; position:relative;border-radius: 50%;cursor: pointer;}
+.switch-high a b{width:16px; height:16px;border-radius: 50%; overflow:hidden; display:inline-block; position:absolute; top:50%; left:50%; margin:-8px 0 0 -8px; background:#fff;-webkit-transition:all .2s ease-in-out; -moz-transition:all .2s ease-in-out; -ms-transition:all .2s ease-in-out; transition:all .2s ease-in-out; -webkit-transform:translate3d(0,0,0); -moz-transform:translate3d(0,0,0); -ms-transform:translate3d(0,0,0); transform:translate3d(0,0,0);}
+.focus-gallery .switch-high a:hover b,.focus-gallery .switch-high a.current b{background:#F39E16;}
+
+
+/* imageSearch3 */
+.high-imageSearch3{background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/index-banner22.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/index-banner22.png*/ center center no-repeat; background-size: cover; position: relative;}
+/* x5 */
+.high-x5{background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/index-banner41.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/index-banner41.png*/ center center no-repeat; background-size: cover; position: relative;}
+/* x3v */
+.high-x3v{background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/index-banner1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/index-banner1.png*/ center center no-repeat; background-size: cover; position: relative;}
+/* xshotnew */
+.high-xshotnew{background:url(../../../../../zhongda.index.image.com/index_banner_02.jpg)/*tpa=http://zhongda.index.image.com/index-banner-252.png*/ center center no-repeat; background-size: cover; position: relative;}
+
+/* high-news */
+.high-news{background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/page-xwtg-banner31.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-xwtg-banner31.png*/ center center no-repeat; background-size: cover; position: relative;}
+
+/* high-active */
+.high-active{background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/index-banner25.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/index-banner25.png*/ center center no-repeat; background-size: cover; position: relative;}
+/* high-ctq */
+.high-ctq{background: url("../../../../../zhongda.index.image.com/index-banner-ctq2.png")/*tpa=http://zhongda.index.image.com/index-banner-ctq2.png*/ center center no-repeat; background-size: cover; position: relative;}
+
+.high-register{background: url("../../../../../zhongda.index.image.com/index-banner26.png")/*tpa=http://zhongda.index.image.com/index-banner26.png*/ center center no-repeat; background-size: cover; position: relative;}
+
+
+
+
+
+
+
+
+
+
