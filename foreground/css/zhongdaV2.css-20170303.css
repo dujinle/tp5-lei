@@ -3724,7 +3724,7 @@ margin-left:15px;line-height:19px;}
 }
 .dmleiv2-part1{
     padding:80px 0 90px 0;
-	height:1200px;
+	height:750px;
 	width:1200px;
 	margin:0 auto;
 }
@@ -3833,7 +3833,7 @@ margin-left:15px;line-height:19px;}
     display: inline-block;
     width: 332px;
     height: 18px;
-    background:url(../../../../../zhongda.index.image.com/fenGe2.png);
+    background:url(../images/index/fenGe2.png);
     position: absolute;
     bottom: -4px;
     left: -20.5%;
@@ -4236,11 +4236,11 @@ margin-left:15px;line-height:19px;}
     padding:58px 69px 0;
 }
 .dmleiv2-part4{
-    background: url("../../../../../zhongda.index.image.com/dmleiv2-part4.png")/*tpa=http://zhongda.index.image.com/dmleiv2-part4.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-part4.png")/*tpa=http://zhongda.index.image.com/dmleiv2-part4.png*/ no-repeat;
     padding:109px 0 69px;
 }
 .dmleiv2-part2{
-    background: url("../../../../../zhongda.index.image.com/dmleiv2-part2.png")/*tpa=http://zhongda.index.image.com/dmleiv2-part2.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-part2.png")/*tpa=http://zhongda.index.image.com/dmleiv2-part2.png*/ no-repeat;
     height:900px;
     padding:105px 0;
 }
