@@ -1,153 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7f1eda-94fa-4649-a30a-02a8dc0a4d11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/.reputation-resources6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/116255889141528887.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/294699315983106719.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/458262536625107557.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/532843786642265122.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/78515898103722117.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/KAYLA涓婚〉.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/KAYLA澶村儚.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/ZDlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/about_chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-baike11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-baike22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-baike33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-kbyx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-wenda11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-wenda22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/banner-wenda33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/bkzy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/bonnie澶村儚.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/case-lunbobg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmlei-help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-medias-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-part2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-part4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-services1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-services2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-services3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dmleiv2-thum-item4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-UCliulanqi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-aiqiyi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-aliyun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-fenghuangyidong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-guangdiantong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-jrtt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-liebaoyidong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-momo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-souhuhuisuan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-wangyiyoudao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-xinlangfuyi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/dsp-youku.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/ewm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/fenGe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/fenGe2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/fenGe3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-case11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-case22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-case33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-data.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-hlg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-khjy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-other5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-step.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-tcs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ys1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ys2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ys31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/friend-ywjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/help-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index-banner-252.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index-banner-ctq2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index-banner26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/index_banner_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/jxal-banner1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/kbyx-why.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/line-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/live-help1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/live_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/live_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/livevideo-activity04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/login-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/bao-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/bao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/baomi-kl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/baomi-t-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/l-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/nt-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/r-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/mobile/images/st-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/now.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/page-pyq-banner11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/page-zbwh-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/platform.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/reputation-item.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/reputation-wdyx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/seo-banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/shoujihao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/showqrcode _ewm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/spriteimg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/step3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/taammmy涓婚〉.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/taammmy澶村儚.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/telphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/video-verified-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/vikizhuye.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/viki澶村儚.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/wx_login_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-coopration.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-supply.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-version.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-version1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zd-version2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/images/index/zddz-banner11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/dmleiV2.css-20161206.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/header.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/highlight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/mobile/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/myClearstyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/wxhot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/zhongdaV2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/css/zhongdaV2.css-20170303.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/belatedPNG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/jquery-3.2.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/mobile/jquery-1.7.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/mobile/jquery.glide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/mobile/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/shuffling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/shuffling1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreground/js/shuffling3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foreground/index.htm" afterPath="$PROJECT_DIR$/foreground/index.htm" />
-    </list>
+    <list default="true" id="6a7f1eda-94fa-4649-a30a-02a8dc0a4d11" name="Default" comment="" />
     <ignored path="tp5-lei.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -171,8 +25,8 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/foreground/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+            <state relative-caret-position="157">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#br#0;n#span#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -423,24 +277,24 @@
       <workItem from="1490528695670" duration="292000" />
       <workItem from="1490529388378" duration="423000" />
       <workItem from="1490530136831" duration="660000" />
-      <workItem from="1490580281694" duration="5528000" />
+      <workItem from="1490580281694" duration="5604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7343000" />
+    <option name="totallyTimeSpent" value="7419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26494345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26494345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33227345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33227345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -768,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foreground/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        <state relative-caret-position="157">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#br#0;n#span#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
