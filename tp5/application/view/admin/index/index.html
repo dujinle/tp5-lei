@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>镭灵 | 后台管理系统</title>
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+	<link href="__PUBLIC__static/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	<link href="__PUBLIC__static/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="__PUBLIC__static/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
+    <link href="__PUBLIC__static/dist/css/AdminLTE.min.css" rel="stylesheet" type="text/css" />
+      <!--<script src="__PUBLIC__static/bootstrap/css/bootstrap.css"></script>-->
+	<a href="../../../../../../../../C:/Users/Administrator/Desktop/dmlei V2/jzyx.html"></a>
+	<link href="__PUBLIC__static/bootstrap/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="__PUBLIC__static/dist/css/skins/_all-skins.min.css" rel="stylesheet" type="text/css" />
+    <a href="../../../../../../../../C:/Users/Administrator/Desktop/dmlei V2/xwtg.html"></a>
+    <link href="__PUBLIC__static/plugins/iCheck/flat/blue.css" rel="stylesheet" type="text/css" />
+    <link href="__PUBLIC__static/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
+	<link href="__PUBLIC__static/plugins/datatables/dataTables.bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="__PUBLIC__static/plugins/iCheck/all.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="__PUBLIC__static/dist/css/iconfont.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="skin-blue sidebar-mini ">
+    <div class="wrapper">
+         <header class="main-header">
+        <!-- Logo -->
+        <a href="/manager/manager_index/" class="logo">
+          <!-- mini logo for sidebar mini 50x50 pixels -->
+          <span class="logo-mini"><img src='http://7xnlea.com2.z0.glb.qiniucdn.com/icon1.png' style='height:30px;' /></span>
+          <!-- logo for regular state and mobile devices -->
+          <span class="logo-lg"><img src='__PUBLIC__static/dmleilogored.png' width="67" height="35"/> 管理中心</span>
+        </a>
+        <!-- Header Navbar: style can be found in header.less -->
+        <nav class="navbar navbar-static-top" role="navigation">
+          <!-- Sidebar toggle button-->
+          <a href="javascript:void(0)" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+            <span class="sr-only">Toggle navigation</span>
+          </a>
+          <div class="navbar-custom-menu">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="#" >
+                        <i class="fa fa-user"></i>
+                        <!--img src="../../dist/img/user2-160x160.jpg" class="user-image" alt="User Image"/-->
+                        <span class="hidden-xs">罗利伟</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/Login/logout"><i class='fa fa-sign-out'></i>退出</a>
+                </li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+
+        <aside class="main-sidebar">
+    <!-- sidebar: style can be found in sidebar.less -->
+    <section class="sidebar">
+        <ul class="sidebar-menu">
+            <li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-users"></i> <span>客户管理</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/User/companylist"><i class="fa fa-fw fa-user"></i> 入驻公司</a></li><li><a href="/User/statistics"><i class="fa fa-fw fa-book"></i> 数据统计</a></li><li><a href="/User/behavior"><i class="fa fa-fw fa-area-chart"></i> 用户行为统计</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-university"></i> <span>财务中心</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/User/Financial"><i class="fa fa-fw fa-bar-chart"></i> 财务统计</a></li><li><a href="/Invoice/index"><i class="fa fa-fw fa-cc-discover"></i> 开票中心</a></li><li><a href="/Financial/computation"><i class="fa fa-fw fa-calculator"></i> 财务核算</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-server"></i> <span>订单中心</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/Order/news"><i class="fa fa-fw fa-newspaper-o"></i> 新闻媒体订单</a></li><li><a href="/Order/package"><i class="fa fa-fw fa-columns"></i> 新闻套餐订单</a></li><li><a href="/Order/weiXin"><i class="fa fa-fw fa-wechat"></i> 微信媒体订单</a></li><li><a href="/Order/weiBo"><i class="fa fa-fw fa-comment-o"></i> 微博媒体订单</a></li><li><a href="/Order/ghostList"><i class="fa fa-fw fa-pencil"></i> 代写稿件订单</a></li><li><a href="/Live/netred"><i class="fa fa-fw fa-caret-square-o-right"></i> 直播网红订单</a></li><li><a href="/Friends/index"><i class="fa fa-fw fa-user-times"></i> 朋友圈广告订单</a></li><li><a href="/Question/wenda"><i class="fa fa-fw fa-bars"></i> 问答订单</a></li><li><a href="/Question/baike"><i class="fa fa-fw fa-comments-o"></i> 百科订单</a></li><li><a href="/Order/accurate"><i class="fa fa-fw fa-area-chart"></i> 精准营销</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-folder-open"></i> <span>数据导出</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/Export/orderexport"><i class="fa fa-fw fa-file"></i> 订单导出</a></li><li><a href="/Export/userexport"><i class="fa fa-fw fa-file-excel-o"></i> 用户导出</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-edit"></i> <span>数据维护</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/Cms/newslist"><i class="fa fa-fw fa-file-o"></i> 媒体投稿</a></li><li><a href="/Products/productslist"><i class="fa fa-fw fa-bar-chart"></i> 新闻套餐</a></li><li><a href="/Order/selfmedia"><i class="fa fa-fw fa-clipboard"></i> 微信媒体</a></li><li><a href="/Cms/cpList"><i class="fa fa-fw fa-bars"></i> C P资源</a></li><li><a href="/Cms/weibo"><i class="fa fa-fw fa-plus-square-o"></i> 微博媒体</a></li><li><a href="/Live/management"><i class="fa fa-fw fa-camera-retro"></i> 直播网红管理</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-cog"></i> <span>运营功能</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/Motion/newsTitle"><i class="fa fa-fw fa-bar-chart-o"></i> 新闻标题修正</a></li><li><a href="/Motion/coupon"><i class="fa fa-fw fa-envelope"></i> 红包列表</a></li><li><a href="/Motion/gift"><i class="fa fa-fw fa-gift"></i> 老带新活动</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-bar-chart"></i> <span>Cms管理</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/Cms/cateLogList"><i class="fa fa-fw fa-check"></i> 栏目管理</a></li><li><a href="/Cms/postList"><i class="fa fa-fw fa-pinterest-p"></i> 文章管理</a></li><li><a href="/Cms/pageList"><i class="fa fa-fw fa-server"></i> 单页管理</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-area-chart"></i> <span>代理商管理</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/Biz/agent"><i class="fa fa-fw fa-sellsy"></i> 代理入驻</a></li>                </ul>            </li><li class="treeview">
+                <a href="javascript:void(0);">
+                    <i class="fa fa-fw fa-truck"></i> <span>供应商管理</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+
+                <ul class="treeview-menu">
+                    <li><a href="/SupplierVe/index"><i class="fa fa-fw fa-motorcycle"></i> 新闻供应商</a></li>                </ul>            </li>                     </ul>
+    </section>
+    <!-- /.sidebar -->
+</aside>
+
+        <!-- jQuery 2.1.4 -->
+        <script src="__PUBLIC__static/jquery/2.1.4/jquery.min.js"></script>
+        <!-- jQuery UI 1.11.2 -->
+        <script src="__PUBLIC__static/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+        <script>
+          $.widget.bridge('uibutton', $.ui.button);
+        </script>
+        <!-- Bootstrap 3.3.2 JS -->
+
+        <script src="__PUBLIC__static/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        
+        <script src="__PUBLIC__static/plugins/datatables/jquery.dataTables.min.js" type="text/javascript"></script>
+        <script src="__PUBLIC__static/plugins/datatables/dataTables.bootstrap.min.js" type="text/javascript"></script>
+        <!-- Morris.js charts -->
+        <!--script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script-->
+        <!--script src="__PUBLIC__static/plugins/morris/morris.min.js" type="text/javascript"></script-->
+        <!-- Sparkline -->
+        <!--script src="__PUBLIC__static/plugins/sparkline/jquery.sparkline.min.js" type="text/javascript"></script-->
+        <!--script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js" type="text/javascript"></script-->
+        <!-- Slimscroll -->
+        <!--script src="__PUBLIC__static/plugins/slimScroll/jquery.slimscroll.min.js" type="text/javascript"></script-->
+        <!-- FastClick -->
+        <script src='__PUBLIC__static/plugins/fastclick/fastclick.min.js'></script>
+        <script src="__PUBLIC__static/plugins/iCheck/icheck.min.js" type="text/javascript"></script>
+        <script src="__PUBLIC__static/js/jquery.cookie.js" type="text/javascript"></script>
+        <!-- AdminLTE App -->
+        <script src="__PUBLIC__static/dist/js/app.min.js" type="text/javascript"></script>
+        <script src="__PUBLIC__static/dist/js/demo.js" type="text/javascript"></script>
+        <!--script src="__PUBLIC__static/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" type="text/javascript"></script-->
+        <SCRIPT language=javascript>
+            <!--
+            window.onerror=function(){return true;}
+            setTimeout(function(){$(".alert").modal("hide")},2);
+            // -->
+        </SCRIPT>
+
+        <div class="content-wrapper" style="min-height: 1036px;">
+          <!-- Content Header (Page header) -->
+            <section class="content-header">
+
+                <h1>
+                                    <small></small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="/Index/index"><i class="fa fa-dashboard"></i> 首页</a></li>
+                    <li class="active"></li>
+                </ol>
+                                            </section>
+
+            <section class="content">
+                欢迎
+            </section>
+        </div>
+		<footer class="main-footer">
+            <div class="pull-right hidden-xs">
+            <!--b>Version</b> 2.0-->
+            </div>
+            <strong>Copyright © 2015 .</strong> All rights reserved.
+        </footer>
+    </div>
+
