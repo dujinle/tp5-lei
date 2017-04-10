@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconfont';  /* project id 114135 */
-  src: url("../../../../../at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot*/;
-  src: url("../../../../../at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot-#iefix")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot?#iefix*/ format('embedded-opentype'),
-  url("../../../../../at.alicdn.com/t/font_p7k79kwa8u34ygb9.woff")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.woff*/ format('woff'),
-  url("../../../../../at.alicdn.com/t/font_p7k79kwa8u34ygb9.ttf")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.ttf*/ format('truetype'),
-  url("../../../../../at.alicdn.com/t/font_p7k79kwa8u34ygb9.svg#iconfont")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.svg#iconfont*/ format('svg');
+  src: url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot*/;
+  src: url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot-#iefix")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot?#iefix*/ format('embedded-opentype'),
+  url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.woff")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.woff*/ format('woff'),
+  url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.ttf")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.ttf*/ format('truetype'),
+  url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.svg#iconfont")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.svg#iconfont*/ format('svg');
 }
 .iconfont {
   font-family:"iconfont" !important;
@@ -29,21 +29,21 @@
 .icon-error{
   font-size: 14px;
   margin-right:5px;
-  color:#e84c3d;
+  color:#fc7a22;
 }
 .icon-rank{
   font-size:40px;
-  color:#e84c3d;
+  color:#fc7a22;
   margin-right:18px;
 }
 .icon-play{
   font-size:50px;
-  color:#e84c3d;
+  color:#fc7a22;
   margin-right:30px;
 }
 .icon-live-help{
   font-size:60px;
-  color:#e84c3d;
+  color:#fc7a22;
 }
 .icon-zd-version{
   font-size:55px;
@@ -55,7 +55,7 @@
 }
 .zd-success{
   font-size:65px;
-  color:#e84c3d;
+  color:#fc7a22;
 }
 .icon-friend-other{
   font-size:38px;
@@ -78,7 +78,7 @@
   color:#0f88eb;
 }
 .medias-color4{
-  color:#e84e40;
+  color:#fc7a22;
 }
 .medias-color5{
   color:#51c332;
@@ -96,7 +96,7 @@
   color:#f36a5a;
 }
 .icon-caret{
-  color:#e84c3d;
+  color:#fc7a22;
   font-size:10px;
 }
 .dsp-man {

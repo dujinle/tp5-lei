@@ -712,7 +712,7 @@
 .friend-ywjs ul li .f-ywjs-left{
     width:61px;
     height:61px;
-    border:2px solid #e84c3d;
+    border:2px solid #ff6c00;
     text-align: center;
     border-radius: 50%;
 }
@@ -755,8 +755,8 @@
     height:40px;
     background: #fff;
     border-radius: 6px;
-    border:1px solid #e84c3d;
-    color:#e84c3d;
+    border:1px solid #ff6c00;
+    color:#ff6c00;
     line-height:40px;
     text-align: center;
     font-size:14px;
@@ -768,7 +768,7 @@
     -o-transition: all ease 0.5s;
 }
 .friend-ywjs-price a:hover{
-    background: #e84c3d;
+    background: #ff6c00;
     color:#fff;
 
 }
@@ -1191,52 +1191,52 @@ i,em{
     background: url("../images/wb-stage.png")/*tpa=http://image.dmlei.com/Public/static/DmleiV2/images/wb-stage.png*/ no-repeat center;
 }
 #dsp-img1{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png*/ no-repeat;
 }
 #dsp-img1:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png*/ no-repeat;
 }
 #dsp-img2{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png*/ no-repeat;
 }
 #dsp-img2:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png*/ no-repeat;
 }
 #dsp-img3{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png*/ no-repeat;
 }
 #dsp-img3:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png*/ no-repeat;
 }
 #dsp-img4{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png*/ no-repeat;
 }
 #dsp-img4:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png*/ no-repeat;
 }
 #dsp-img5{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png*/ no-repeat;
 }
 #dsp-img5:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png*/ no-repeat;
 }
 #dsp-img6{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png*/ no-repeat;
 }
 #dsp-img6:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png*/ no-repeat;
 }
 #dsp-img7{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png*/ no-repeat;
 }
 #dsp-img7:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png*/ no-repeat;
 }
 #dsp-img8{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png*/ no-repeat;
 }
 #dsp-img8:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png*/ no-repeat;
 }
 /************************************************************************************招商客户**********************************************************************/
 .g-mt20{
@@ -2383,7 +2383,7 @@ i,em{
     height:570px;
     position:relative;
     overflow: hidden;
-    background: url("../../../../../zhongda.index.image.com/case-lunbobg.png")/*tpa=http://zhongda.index.image.com/case-lunbobg.png*/ no-repeat;
+    background: url("../images/index/case-lunbobg.png")/*tpa=http://zhongda.index.image.com/case-lunbobg.png*/ no-repeat;
 }
 .flex{width:248px;height:390px;position:absolute;overflow: hidden;cursor: pointer;top:93px;left:20px;}
 .flex ul.slider{height:390px;position: absolute;}
@@ -2474,7 +2474,7 @@ i,em{
 .case-left-item span{float:left;font-size:16px;color:#666;font-weight: 600;display: inline-block;
 margin-left:15px;line-height:19px;}
 .case-left ul li.active span{color:#e84c3d;line-height: 31px;margin-left:10px;}
-.case-left-line{background:url("../../../../../zhongda.index.image.com/line-left.png")/*tpa=http://zhongda.index.image.com/line-left.png*/ no-repeat;position: absolute;left:7px;top:17px;z-index: -1;width:6px;height:125px;}
+.case-left-line{background:url("../images/index/line-left.png")/*tpa=http://zhongda.index.image.com/line-left.png*/ no-repeat;position: absolute;left:7px;top:17px;z-index: -1;width:6px;height:125px;}
 /*********************************************************************网站地图*********************************************************/
 .sitemap-title{font-size:14px;color:#e84c3d;padding-bottom:10px;border-bottom:1px dashed #DCDCDC;font-weight: 500;}
 .sitemap-link a{font-size:14px;color:#999;margin-right:30px;float: left;}
@@ -2483,7 +2483,7 @@ margin-left:15px;line-height:19px;}
 
 /*********************************************************************直播网红*********************************************************/
 .zbwh-banner{
-    background: url("../../../../../zhongda.index.image.com/page-zbwh-banner.png")/*tpa=http://zhongda.index.image.com/page-zbwh-banner.png*/ no-repeat center center;
+    background: url("../images/index/page-zbwh-banner.png")/*tpa=http://zhongda.index.image.com/page-zbwh-banner.png*/ no-repeat center center;
     background-size: cover;
 }
 .live-item .live-dtx{
@@ -2517,7 +2517,7 @@ margin-left:15px;line-height:19px;}
     height: 22px;
     border-radius: 50%;
     border: 2px solid #fff;
-    background: url("../../../../../zhongda.index.image.com/platform.png")/*tpa=http://zhongda.index.image.com/platform.png*/ no-repeat -2px -2px;
+    background: url("../images/index/platform.png")/*tpa=http://zhongda.index.image.com/platform.png*/ no-repeat -2px -2px;
 }
 
 .live-info-main{margin-left:15px;padding-top:8px;}
@@ -2642,7 +2642,7 @@ margin-left:15px;line-height:19px;}
     width: 14px;
     height: 14px;
     margin: 0 7px -2px 0;
-    background-image: url("../../../../../zhongda.index.image.com/video-verified-icons.png")/*tpa=http://zhongda.index.image.com/video-verified-icons.png*/;
+    background-image: url("../images/index/video-verified-icons.png")/*tpa=http://zhongda.index.image.com/video-verified-icons.png*/;
     background-repeat: no-repeat;
     position: relative;
     top: 35px;
@@ -2677,16 +2677,16 @@ margin-left:15px;line-height:19px;}
     padding: 60px 0 45px;
 }
 .activity1 {
-    background: url("../../../../../zhongda.index.image.com/livevideo-activity01.png")/*tpa=http://zhongda.index.image.com/livevideo-activity01.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity01.png")/*tpa=http://zhongda.index.image.com/livevideo-activity01.png*/ no-repeat;
 }
 .activity2 {
-    background: url("../../../../../zhongda.index.image.com/livevideo-activity02.png")/*tpa=http://zhongda.index.image.com/livevideo-activity02.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity02.png")/*tpa=http://zhongda.index.image.com/livevideo-activity02.png*/ no-repeat;
 }
 .activity3 {
-    background: url("../../../../../zhongda.index.image.com/livevideo-activity04.png")/*tpa=http://zhongda.index.image.com/livevideo-activity04.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity04.png")/*tpa=http://zhongda.index.image.com/livevideo-activity04.png*/ no-repeat;
 }
 .activity4 {
-    background: url("../../../../../zhongda.index.image.com/livevideo-activity03.png")/*tpa=http://zhongda.index.image.com/livevideo-activity03.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity03.png")/*tpa=http://zhongda.index.image.com/livevideo-activity03.png*/ no-repeat;
 }
 .activity-content {
     width: 1200px;
@@ -2731,7 +2731,7 @@ margin-left:15px;line-height:19px;}
 .live-help{
     width:100%;
     height:577px;
-    background: url("../../../../../zhongda.index.image.com/dmlei-help.png")/*tpa=http://zhongda.index.image.com/dmlei-help.png*/ no-repeat;
+    background: url("../images/index/dmlei-help.png")/*tpa=http://zhongda.index.image.com/dmlei-help.png*/ no-repeat;
     margin-top:60px;
 }
 .livehelp-box #help1{
@@ -2743,7 +2743,7 @@ margin-left:15px;line-height:19px;}
     width: 983px;
     padding: 60px 0 0;
     margin: 0 auto;
-    background: url("../../../../../zhongda.index.image.com/step3.png")/*tpa=http://zhongda.index.image.com/step3.png*/ no-repeat;
+    background: url("../images/index/step3.png")/*tpa=http://zhongda.index.image.com/step3.png*/ no-repeat;
     background-position: 140px 110px;
 }
 .step-box2 .step-item{
@@ -2881,7 +2881,7 @@ margin-left:15px;line-height:19px;}
 .conditions-item-zd{
     width:222px;
     height:192px;
-    background: url("../../../../../zhongda.index.image.com/zd-supply.png")/*tpa=http://zhongda.index.image.com/zd-supply.png*/ no-repeat;
+    background: url("../images/index/zd-supply.png")/*tpa=http://zhongda.index.image.com/zd-supply.png*/ no-repeat;
     border-radius: 8px;
     position:relative;
     margin-right:40px;
@@ -2928,7 +2928,7 @@ margin-left:15px;line-height:19px;}
 .zd-cooperation-box{
     width:1065px;
     margin:0 auto;
-    background: url("../../../../../zhongda.index.image.com/zd-coopration.png")/*tpa=http://zhongda.index.image.com/zd-coopration.png*/ no-repeat;
+    background: url("../images/index/zd-coopration.png")/*tpa=http://zhongda.index.image.com/zd-coopration.png*/ no-repeat;
     padding:230px 0 90px 60px;
     position:relative;
 }
@@ -2962,7 +2962,7 @@ margin-left:15px;line-height:19px;}
 .zd-version{
     height:657px;
     padding:60px 0 100px;
-    background: url("../../../../../zhongda.index.image.com/zd-version.png")/*tpa=http://zhongda.index.image.com/zd-version.png*/ no-repeat;
+    background: url("../images/index/zd-version.png")/*tpa=http://zhongda.index.image.com/zd-version.png*/ no-repeat;
 }
 .zd-version-item{
     width:467px;
@@ -2981,11 +2981,11 @@ margin-left:15px;line-height:19px;}
     text-align: center;
 }
 .zd-version-item1{
-    background: url("../../../../../zhongda.index.image.com/zd-version2.png")/*tpa=http://zhongda.index.image.com/zd-version2.png*/ no-repeat;
+    background: url("../images/index/zd-version2.png")/*tpa=http://zhongda.index.image.com/zd-version2.png*/ no-repeat;
 }
 .zd-version-item2{
     margin-right:0;
-    background: url("../../../../../zhongda.index.image.com/zd-version1.png")/*tpa=http://zhongda.index.image.com/zd-version1.png*/ no-repeat;
+    background: url("../images/index/zd-version1.png")/*tpa=http://zhongda.index.image.com/zd-version1.png*/ no-repeat;
 }
 .zd-version-circle{
     width:106px;
@@ -3227,7 +3227,7 @@ margin-left:15px;line-height:19px;}
 
 /*****************************************朋友圈广告********************************/
 .pyq-banner{
-    background: url("../../../../../zhongda.index.image.com/page-pyq-banner11.png")/*tpa=http://zhongda.index.image.com/page-pyq-banner11.png*/ no-repeat center center;
+    background: url("../images/index/page-pyq-banner11.png")/*tpa=http://zhongda.index.image.com/page-pyq-banner11.png*/ no-repeat center center;
     background-size: cover;
 }
 .friend-ys{
@@ -3271,8 +3271,8 @@ margin-left:15px;line-height:19px;}
     text-align: center;
     background: #f5f5f5;
 }
-.friend-data{
-    background: url("../../../../../zhongda.index.image.com/friend-data.png")/*tpa=http://zhongda.index.image.com/friend-data.png*/ no-repeat center;
+.friend-data{ 
+    background: url("../images/index/friend-data.png") no-repeat center;
     height:300px;
     margin-top:80px;
 }
@@ -3331,17 +3331,17 @@ margin-left:15px;line-height:19px;}
 }
 .friend-case-item1{
     height:56px;
-    background: url("../../../../../zhongda.index.image.com/friend-hlg.png")/*tpa=http://zhongda.index.image.com/friend-hlg.png*/ no-repeat left;
+    background: url("../images/index/friend-hlg.png")/*tpa=http://zhongda.index.image.com/friend-hlg.png*/ no-repeat left;
     margin-bottom:60px;
 }
 .friend-case-item2{
     height:56px;
-    background: url("../../../../../zhongda.index.image.com/friend-tcs.png")/*tpa=http://zhongda.index.image.com/friend-tcs.png*/ no-repeat left;
+    background: url("../images/index/friend-tcs.png")/*tpa=http://zhongda.index.image.com/friend-tcs.png*/ no-repeat left;
     margin-bottom:60px;
 }
 .friend-case-item3{
     height:56px;
-    background: url("../../../../../zhongda.index.image.com/friend-khjy.png")/*tpa=http://zhongda.index.image.com/friend-khjy.png*/ no-repeat left;
+    background: url("../images/index/friend-khjy.png")/*tpa=http://zhongda.index.image.com/friend-khjy.png*/ no-repeat left;
     margin-bottom:60px;
 }
 .friend-case-item li{
@@ -3440,7 +3440,7 @@ margin-left:15px;line-height:19px;}
 }
 /******************************************************口碑营销********************************************/
 .reputation-wdyx{
-    background:url("../../../../../zhongda.index.image.com/reputation-wdyx.png")/*tpa=http://zhongda.index.image.com/reputation-wdyx.png*/ no-repeat center top;
+    background:url("../images/index/reputation-wdyx.png")/*tpa=http://zhongda.index.image.com/reputation-wdyx.png*/ no-repeat center top;
     width:930px;
     margin:0 auto;
     height:502px;
@@ -3536,7 +3536,7 @@ margin-left:15px;line-height:19px;}
     margin:0 auto;
 }
 .reputation-item li{
-    background: url("../../../../../zhongda.index.image.com/reputation-item.png")/*tpa=http://zhongda.index.image.com/reputation-item.png*/ no-repeat;
+    background: url("../images/index/reputation-item.png")/*tpa=http://zhongda.index.image.com/reputation-item.png*/ no-repeat;
     width:289px;
     height:225px;
     position:relative;
@@ -3637,7 +3637,7 @@ margin-left:15px;line-height:19px;}
     background: #fb6d5f;
 }
 .wdzy{
-   background: url("../../../../../zhongda.index.image.com/bkzy.png")/*tpa=http://zhongda.index.image.com/bkzy.png*/ no-repeat;
+   background: url("../images/index/bkzy.png")/*tpa=http://zhongda.index.image.com/bkzy.png*/ no-repeat;
     background-size: cover;
     height:385px;
     padding:97px 0 103px;
@@ -3717,14 +3717,14 @@ margin-left:15px;line-height:19px;}
     text-align: center;
     margin: 40px auto;
 }
-/****************************************************************************网站改版*************************************************************/
+/****************************************************************************众达优势*************************************************************/
 .zhongdav1-part1_1{
 	background-color:#f6f6f6;
 	height:756.2px;
 }
 .dmleiv2-part1{
-    padding:80px 0 90px 0;
-	height:1200px;
+    padding:80px 0px 0px 0px;
+	height:1631px;
 	width:1200px;
 	margin:0 auto;
 }
@@ -3761,10 +3761,13 @@ margin-left:15px;line-height:19px;}
     margin-left: -23px;
 }
 .dmleiv2-title h2.text-black span.bot{
-	background:url(../../../../../zhongda.index.image.com/fenGe.png);
+	background:url(../images/index/fenGe.png)
+}
+.dmleiv2-part3 .dmleiv2-title h2.text-black span.bot{
+    background:url(../images/index/fenGe4.png)
 }
 .dmleiv2-title h2.text-white span.bot{
-	background:url(../../../../../zhongda.index.image.com/fenGe.png);
+	background:url(../images/index/fenGe.png);
 }
 .dmleiv2-services{
     margin-top:74px;
@@ -3833,7 +3836,7 @@ margin-left:15px;line-height:19px;}
     display: inline-block;
     width: 332px;
     height: 18px;
-    background:url(../../../../../zhongda.index.image.com/fenGe2.png);
+    background:url(../images/index/fenGe2.png);
     position: absolute;
     bottom: -4px;
     left: -20.5%;
@@ -3891,22 +3894,8 @@ margin-left:15px;line-height:19px;}
     left: 50%;
     margin-left: -7px;
 }
-.dmleiv2-medias-bg {
-    z-index: 22;
-    position: absolute;
-    height: 100%;
-    background:url("../../../../../zhongda.index.image.com/dmleiv2-medias-bg.png")/*tpa=http://zhongda.index.image.com/dmleiv2-medias-bg.png*/ no-repeat;
-    width:100%;
-    left:0;
-    top: 0;
-    -webkit-transition: all ease 0.5s;
-    -moz-transition: all ease 0.5s ;
-    -ms-transition: all ease 0.5s ;
-    -o-transition: all ease 0.5s ;
-    transition: all ease 0.5s ;
-}
 .dmleiv2-plat{
-    margin-top:100px;
+    margin-top:58px;
 
 }
 .thum-item {
@@ -3921,23 +3910,25 @@ margin-left:15px;line-height:19px;}
     box-shadow:0 3px 10px 0px rgba(0,0,0,0.2);
 }
 .dmleiv2-plat .thum-item1{
-    background: url("../../../../../zhongda.index.image.com/dmleiv2-thum-item1.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item1.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item1.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item1.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item2{
-    background: url("../../../../../zhongda.index.image.com/dmleiv2-thum-item2.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item2.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item2.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item2.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item3{
-    background: url("../../../../../zhongda.index.image.com/dmleiv2-thum-item3.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item3.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item3.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item3.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item4{
-    background: url("../../../../../zhongda.index.image.com/dmleiv2-thum-item4.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item4.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item4.png")/*tpa=http://zhongda.index.image.com/dmleiv2-thum-item4.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item:last-child{
     margin-right:0;
 }
 .dmleiv2-part3{
+    background-image: url(../images/index/part3_bg.png);
     margin-top:80px;
-    height:550px;
+    height:685px;
+    padding: 86px 0px;
 }
 
 .thum-item-title {
@@ -4025,7 +4016,7 @@ margin-left:15px;line-height:19px;}
     width: 267px;
     height: 267px;
     border-radius: 50%;
-    background-color: rgba(255, 102, 84, .9);
+    background-color: rgba(255, 108, 0, 0.9);
     transform: scale(0.5);
     transition: all .15s ease;
 }
@@ -4064,7 +4055,7 @@ margin-left:15px;line-height:19px;}
     overflow: hidden;
 }
 .dmleiv2-medias-inner{
-    padding:40px 30px;
+    padding:45px 30px;
 	left:141px;
 	position:absolute;
 	width:847px;
@@ -4088,8 +4079,62 @@ margin-left:15px;line-height:19px;}
     -o-transition: all ease 0.3s ;
     transition: all ease 0.3s ;
 }
+.medias-list .medias_3-img ul li{
+    border:1px solid #e5e5e5;
+    position:relative;
+    float:left;
+    text-align: center;
+    margin-bottom:38px;
+    margin-right:29px;
+    border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s ;
+    -ms-transition: all ease 0.3s ;
+    -o-transition: all ease 0.3s ;
+    transition: all ease 0.3s ;
+}
+.medias-list .medias_4-img ul li{
+    border:1px solid #e5e5e5;
+    position:relative;
+    float:left;
+    text-align: center;
+    margin-bottom:38px;
+    margin-right:29px;
+    border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s ;
+    -ms-transition: all ease 0.3s ;
+    -o-transition: all ease 0.3s ;
+    transition: all ease 0.3s ;
+}
 .medias-list .medias-img ul li:hover{
     border:1px solid rgba(60,201,156,0.8) ;
+    -webkit-box-shadow: 0 3px 5px 1px rgba(0,0,0,.2);
+    -moz-box-shadow:  0 3px 5px 1px rgba(0,0,0,.2);
+    box-shadow:  0 3px 5px 1px rgba(0,0,0,.2);
+    -webkit-transform: translateY(-7px);
+    -moz-transform: translateY(-7px);
+    -ms-transform: translateY(-7px);
+    -o-transform: translateY(-7px);
+    transform: translateY(-7px);
+}
+.medias-list .medias_3-img ul li:hover{
+    border:1px solid rgba(255,174,0,0.8) ;
+    -webkit-box-shadow: 0 3px 5px 1px rgba(0,0,0,.2);
+    -moz-box-shadow:  0 3px 5px 1px rgba(0,0,0,.2);
+    box-shadow:  0 3px 5px 1px rgba(0,0,0,.2);
+    -webkit-transform: translateY(-7px);
+    -moz-transform: translateY(-7px);
+    -ms-transform: translateY(-7px);
+    -o-transform: translateY(-7px);
+    transform: translateY(-7px);
+}
+.medias-list .medias_4-img ul li:hover{
+    border:1px solid rgba(163,104,205,0.8) ;
     -webkit-box-shadow: 0 3px 5px 1px rgba(0,0,0,.2);
     -moz-box-shadow:  0 3px 5px 1px rgba(0,0,0,.2);
     box-shadow:  0 3px 5px 1px rgba(0,0,0,.2);
@@ -4107,13 +4152,13 @@ margin-left:15px;line-height:19px;}
     width:360px;
     height:130px;
 }
-.medias-list3 .medias-img ul li{
-    width:115px;
-    height:110px;
+.medias-list3 .medias_3-img ul li{
+    width:134px;
+    height:134px;
 }
-.medias-list4 .medias-img ul li{
-    width:154px;
-    height:110px;
+.medias-list4 .medias_4-img ul li{
+    width:240px;
+    height:130px;
 }
 .medias-list5 .medias-img ul li{
     width:198px;
@@ -4146,7 +4191,51 @@ margin-left:15px;line-height:19px;}
     -o-transition: all ease 0.3s ;
     transition: all ease 0.3s ;
 }
+.medias_3-mask{
+    width:100%;
+    height:100%;
+    background:rgba(255,174,0,0.8) ;
+    text-align: center;
+    position:absolute;
+    top:100%;
+    display: table;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s ;
+    -ms-transition: all ease 0.3s ;
+    -o-transition: all ease 0.3s ;
+    transition: all ease 0.3s ;
+}
+.medias_4-mask{
+    width:100%;
+    height:100%;
+    background:rgba(163,104,205,0.8) ;
+    text-align: center;
+    position:absolute;
+    top:100%;
+    display: table;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s ;
+    -ms-transition: all ease 0.3s ;
+    -o-transition: all ease 0.3s ;
+    transition: all ease 0.3s ;
+}
 .medias-mask a{
+    font-size:12px;
+    color:#fff;
+    display: block;
+    line-height:100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+.medias_3-mask a{
+    font-size:12px;
+    color:#fff;
+    display: block;
+    line-height:100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+.medias_4-mask a{
     font-size:12px;
     color:#fff;
     display: block;
@@ -4157,7 +4246,29 @@ margin-left:15px;line-height:19px;}
 .medias-list .medias-img li:hover .medias-mask{
     top:0;
 }
+.medias-list .medias_3-img li:hover .medias_3-mask{
+    top:0;
+}
+.medias-list .medias_4-img li:hover .medias_4-mask{
+    top:0;
+}
 .medias-list .medias-img p.medias-name{
+    position:absolute;
+    bottom:14px;
+    font-size:14px;
+    color:#555;
+    width:100%;
+    text-align: center;
+}
+.medias-list .medias_3-img p.medias-name{
+    position:absolute;
+    bottom:14px;
+    font-size:14px;
+    color:#555;
+    width:100%;
+    text-align: center;
+}
+.medias-list .medias_4-img p.medias-name{
     position:absolute;
     bottom:14px;
     font-size:14px;
@@ -4236,8 +4347,13 @@ margin-left:15px;line-height:19px;}
     padding:58px 69px 0;
 }
 .dmleiv2-part4{
-    background: url("../../../../../zhongda.index.image.com/dmleiv2-part4.png")/*tpa=http://zhongda.index.image.com/dmleiv2-part4.png*/ no-repeat;
-    padding:109px 0 69px;
+    padding:0px 0 0px;
+    margin-top: 80px;
+}
+.dmleiv2-part5{
+    padding:86px 0px 0px 0px;
+    margin-top: 40px;
+    background-color: #f6f6f6;
 }
 .dmleiv2-part2{
     background: url("../../../../../zhongda.index.image.com/dmleiv2-part2.png")/*tpa=http://zhongda.index.image.com/dmleiv2-part2.png*/ no-repeat;
@@ -4263,280 +4379,281 @@ margin-left:15px;line-height:19px;}
 }
 
 .dmleiv2-customer-list li.customer-list1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1071px;
 }
 .dmleiv2-customer-list li.customer-list1:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1203px;
 }
 .dmleiv2-customer-list li.customer-list2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1071px;
 }
 .dmleiv2-customer-list li.customer-list2:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1203px;
 }
 .dmleiv2-customer-list li.customer-list3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1071px;
 }
 .dmleiv2-customer-list li.customer-list3:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1203px;
 }
 .dmleiv2-customer-list li.customer-list4{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1071px;
 }
 .dmleiv2-customer-list li.customer-list4:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1203px;
 }
 .dmleiv2-customer-list li.customer-list5{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1069px;
 }
 .dmleiv2-customer-list li.customer-list5:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1202px;
 }
 .dmleiv2-customer-list li.customer-list6{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1336px;
 }
 .dmleiv2-customer-list li.customer-list6:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1470px;
 }
 .dmleiv2-customer-list li.customer-list7{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1336px;
 }
 .dmleiv2-customer-list li.customer-list7:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1470px;
 }
 .dmleiv2-customer-list li.customer-list8{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1336px;
 }
 .dmleiv2-customer-list li.customer-list8:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1470px;
 }
 .dmleiv2-customer-list li.customer-list9{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1336px;
 }
 .dmleiv2-customer-list li.customer-list9:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1470px;
 }
 .dmleiv2-customer-list li.customer-list10{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1336px;
 }
 .dmleiv2-customer-list li.customer-list10:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1470px;
 }
 .dmleiv2-customer-list li.customer-list11{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1604px;
 }
 .dmleiv2-customer-list li.customer-list11:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1739px;
 }
 .dmleiv2-customer-list li.customer-list12{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1604px;
 }
 .dmleiv2-customer-list li.customer-list12:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1739px;
 }
 .dmleiv2-customer-list li.customer-list13{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1604px;
 }
 .dmleiv2-customer-list li.customer-list13:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1739px;
 }
 .dmleiv2-customer-list li.customer-list14{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1604px;
 }
 .dmleiv2-customer-list li.customer-list14:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1739px;
 }
 .dmleiv2-customer-list li.customer-list15{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1604px;
 }
 .dmleiv2-customer-list li.customer-list15:hover{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1739px;
 }
 .brand-list1 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-22px -7px;
 }
 .brand-list1 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-191px -17px;
 }
 .brand-list1 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-361px -17px;
 }
 .brand-list1 .item4{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-532px -17px;
 }
 .brand-list1 .item5{
-     background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+     background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
      background-position:-704px -17px;
 }
 .brand-list2 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-19px -145px;
 }
 .brand-list2 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-309px -145px;
 }
 .brand-list2 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-597px -145px;
 }
 .brand-list3 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-19px -274px;
 }
 .brand-list3 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-309px -274px;
 }
 .brand-list3 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-597px -274px;
 }
 /*提高销量*/
 .sales-list1 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -401px;
 }
 .sales-list1 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-155px -401px;
 }
 .sales-list1 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-290px -401px;
 }
 .sales-list1 .item4{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-426px -401px;
 }
 .sales-list1 .item5{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-561px -401px;
 }
 .sales-list1 .item6{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-696px -401px;
 }
 .sales-list2 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -532px;
 }
 .sales-list2 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-155px -532px;
 }
 .sales-list2 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-290px -532px;
 }
 .sales-list2 .item4{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-426px -532px;
 }
 .sales-list2 .item5{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-561px -532px;
 }
 .sales-list2 .item6{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-696px -532px;
 }
 .sales-list3 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -660px;
 }
 .sales-list3 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-155px -660px;
 }
 .sales-list3 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-290px -660px;
 }
 .sales-list3 .item4{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-426px -660px;
 }
 .sales-list3 .item5{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-561px -660px;
 }
 .sales-list3 .item6{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-696px -660px;
 }
 .user-list1 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -788px;
 }
 .user-list1 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-233px -788px;
 }
 .user-list1 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-447px -788px;
 }
 .user-list1 .item4{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-661px -788px;
 }
 .user-list2 .item1{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -930px;
 }
 .user-list2 .item2{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-233px -930px;
 }
 .user-list2 .item3{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-447px -930px;
 }
 .user-list2 .item4{
-    background: url("../../../../../zhongda.index.image.com/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://zhongda.index.image.com/spriteimg3.png*/ no-repeat;
     background-position:-661px -930px;
 }
 
 .dmleiv2-company{
-    padding:70px 20px;
+    padding:0px 20px;
+    height: 560px;
 }
 .dmleiv2-company .dmleiv2-company-item{
-    border-top:3px solid #e84c3d;
+    border-top:3px solid #ff6c00;
     border-left:1px solid #d7d7d7;
     border-right:1px solid #d7d7d7;
     border-bottom:1px solid #d7d7d7;
@@ -4570,7 +4687,7 @@ margin-left:15px;line-height:19px;}
     cursor: pointer;
 }
 .dmleiv2-company .dmleiv2-company-item .dmleiv2-company-item-header a:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .dmleiv2-company .dmleiv2-company-item  .dmleiv2-compang-item-con{
     padding:0 15px;
@@ -4585,7 +4702,7 @@ margin-left:15px;line-height:19px;}
     color:#666;
 }
 .dmleiv2-company .dmleiv2-company-item  .dmleiv2-compang-item-con ul li:hover a{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .dmleiv2-company .dmleiv2-company-item  .dmleiv2-compang-item-con ul li:last-child{
     border-bottom:none;
