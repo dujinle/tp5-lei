@@ -13,7 +13,7 @@ return [
     // 数据库类型
     'type'            => 'think\mongo\Connection',
     // 服务器地址
-    'hostname'        => '175.43.124.10',
+    'hostname'        => '192.168.10.203',
     // 数据库名
     'database'        => 'web_db',
     // 用户名

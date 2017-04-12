@@ -1,0 +1,113 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 114135 */
+  src: url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot*/;
+  src: url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot-#iefix")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.eot?#iefix*/ format('embedded-opentype'),
+  url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.woff")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.woff*/ format('woff'),
+  url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.ttf")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.ttf*/ format('truetype'),
+  url("../dmlei/at.alicdn.com/t/font_p7k79kwa8u34ygb9.svg#iconfont")/*tpa=http://at.alicdn.com/t/font_p7k79kwa8u34ygb9.svg#iconfont*/ format('svg');
+}
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-username{
+  font-size: 22px;
+  color:#adadad;
+  position: absolute;
+  top:6px;
+  left:9px;
+}
+.icon-wxzc{
+  font-size:19px;
+  margin:0 5px;
+  color:#14d212;
+}
+.icon-error{
+  font-size: 14px;
+  margin-right:5px;
+  color:#fc7a22;
+}
+.icon-rank{
+  font-size:40px;
+  color:#fc7a22;
+  margin-right:18px;
+}
+.icon-play{
+  font-size:50px;
+  color:#fc7a22;
+  margin-right:30px;
+}
+.icon-live-help{
+  font-size:60px;
+  color:#fc7a22;
+}
+.icon-zd-version{
+  font-size:55px;
+  color:#fff;
+}
+.icon-zd-content{
+  font-size:26px;
+  color:#fff;
+}
+.zd-success{
+  font-size:65px;
+  color:#fc7a22;
+}
+.icon-friend-other{
+  font-size:38px;
+  color:#777;
+  text-align: center;
+  display: block;
+  margin-bottom:3px;
+}
+.icon-medias-type{
+  font-size:38px;
+  display: block;
+}
+.medias-color1{
+  color:#43bdc8;
+}
+.medias-color2{
+ color:#ff8140;
+}
+.medias-color3{
+  color:#0f88eb;
+}
+.medias-color4{
+  color:#fc7a22;
+}
+.medias-color5{
+  color:#51c332;
+}
+.medias-color6{
+  color:#ff8140;
+}
+.icon-medias-more{
+  font-size:22px;
+}
+.icon-medias-friends{
+  font-size:32px;
+  margin-top:26px;
+  display:block;
+  color:#f36a5a;
+}
+.icon-caret{
+  color:#fc7a22;
+  font-size:10px;
+}
+.dsp-man {
+  font-size: 16px;
+  color: #0099cc;
+  margin-right: 3px;
+}
+.dsp-woman {
+  font-size: 16px;
+  color: #FF7CB6;
+  margin-right: 3px;
+  position: relative;
+  top: 2px;
+}
