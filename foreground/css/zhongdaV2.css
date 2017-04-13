@@ -86,7 +86,7 @@
 .freelogin a{
     border-radius: 18px;
     color:#fff;
-    background: #e84c3d;
+    background: #ff6c00;
     padding:9px 41px;
     font-size: 14px;
     cursor: pointer;
@@ -228,15 +228,15 @@
 }
 .price a{
     border-radius: 20px;
-    color:#e84c3d;
-    border:1px solid #e84c3d;
+    color:#ff6c00;
+    border:1px solid #ff6c00;
     padding:9px 41px;
     font-size: 14px;
     transition: all ease 0.5s;
 }
 .price a:hover{
     color:#fff;
-    background:#e84c3d;
+    background:#ff6c00;
 }
 .sure-item-bottom p{
     text-align: left;
@@ -325,7 +325,7 @@
     margin-top:8px;
 }
 .weibo-text ul li p.fans,.media-btn-btn ul li p.fans{
-    color:#e84c3d;
+    color:#ff6c00;
     font-size:14px;
     font-weight:500;
     line-height:15px;
@@ -336,7 +336,7 @@
     line-height:30px;
 }
 .color-red{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .color-99{
     color:#999999;
@@ -443,7 +443,7 @@
 
 /*感谢他们对DMlei的信任*/
 .thanks{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/thank-img1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/thank-img1.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/thank-img1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/thank-img1.png*/ no-repeat;
 }
 .thanks-con{
     padding:55px 0;
@@ -594,7 +594,7 @@
     cursor: pointer;
 }
 .information-left ul li a:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .information-left ul li{
     height:27px;
@@ -672,13 +672,13 @@
     width:105px;
     height:105px;
     border-radius: 50%;
-    border:2px solid #e84c3d;
+    border:2px solid #ff6c00;
     display: table-cell;
     vertical-align: middle;
 }
 .step-item .step-icon{
     font-size:42px;
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .step-item p{
     font-size:16px;
@@ -716,7 +716,7 @@
 .friend-ywjs ul li .f-ywjs-left{
     width:61px;
     height:61px;
-    border:2px solid #e84c3d;
+    border:2px solid #ff6c00;
     text-align: center;
     border-radius: 50%;
 }
@@ -741,7 +741,7 @@
 }
 .friend-ywjs .icon-friend-ywjs{
     font-size:31px;
-    color: #e84c3d;
+    color: #ff6c00;
     line-height:61px;
 }
 .friend-ywjs-price{
@@ -759,8 +759,8 @@
     height:40px;
     background: #fff;
     border-radius: 6px;
-    border:1px solid #e84c3d;
-    color:#e84c3d;
+    border:1px solid #ff6c00;
+    color:#ff6c00;
     line-height:40px;
     text-align: center;
     font-size:14px;
@@ -772,7 +772,7 @@
     -o-transition: all ease 0.5s;
 }
 .friend-ywjs-price a:hover{
-    background: #e84c3d;
+    background: #ff6c00;
     color:#fff;
 
 }
@@ -849,7 +849,7 @@
     font-size:14px;
 }
 .dsp-price a:hover{
-    color:#E84E40;
+    color:#ff6c00;
 }
 .dsp-info2 .detail{
     width:180px;
@@ -861,112 +861,12 @@
     margin-top:50px;
 }
 /**********************************************************************微信推广*************************************************************************/
-.wx-choose,.wb-choose{
-    text-align: center;
-    padding:60px 0;
-    border-bottom:1px solid #E8E8E8;
-}
-.wxtg-tab{
-    width:512px;
-    margin:0 auto;
-    margin-top:60px;
-}
-.wx-tab-item{
-    display: none;
-}
-.wxtg-tab ul li{
-    float: left;
-    margin-right: 60px;
-    position: relative;
-    width: 130px;
-    height: 32px;
-    background: #e8e8e8;
-    text-align: center;
-    line-height: 32px;
-    border-radius: 20px;
-}
-.wxtg-tab ul li.active::after{
-    content: '';
-    position: absolute;
-    left: 50%;
-    margin-left: -12px;
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-top: 10px solid #DD4D3C;;
-    display: block;
-    width: 0;
-    height: 0;
-    opacity: 1;
-    transition: all ease 0.4s;
-    color:#666666;
-}
-.wxtg-tab ul li a{
-    font-size: 14px;
-    cursor: pointer;
-}
-.wxtg-tab ul li:hover,.wxtg-tab ul li.active{
-    background: #DD4D3C;
-    color:#fff;
-}
-.line{
-    border-bottom:1px solid #E8E8E8;
-    width:100%;
-    height:20px;
-    margin:15px 0 60px;
-}
-.line ul{
-    width: 512px;
-    margin: 0 auto;
-    position: relative;
-    top: 13px;
-}
-.line .line-item{
-    float:left;
-    width:130px;
-    margin-right:60px;
-    text-align: center;
-}
-.line .line-item span{
-    width:13px;
-    height:13px;
-    background: #fff;
-    border-radius: 50%;
-    border:2px solid #e8e8e8;
-}
-.line .line-item span.red{
-    border:2px solid #DD4D3C;
-}
-.wx-tab-left{
-    width:805px;
-    overflow: hidden;
-}
-.wx-tab-left img{
-    width:90%;
-}
-.wx-tab-right{
-    width:395px;
-    padding:49px 27px;
-    text-align: center;
-}
-.wx-tab-right h4{
-    font-size:18px;
-    color:#666;
-    margin-bottom:27px;
-}
-.wx-tab-right p{
-    font-size:14px;
-    color:#666;
-    line-height:26px;
-    text-align: left;
-}
-.wxtg-tab-con{
-    margin-top:60px;
-}
+
 .wx-stage{
     height:784px;
     padding:60px 0;
     text-align: center;
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/wx-stage2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/wx-stage2.png*/ no-repeat center;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/wx-stage2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/wx-stage2.png*/ no-repeat center;
 }
 .mediashows .icon-wxtitle{
     font-size:55px;
@@ -999,7 +899,7 @@ i,em{
 }
 .wx-info1 em,.wx-info2 em{
     font-size:14px;
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .dsp-item h4.wx-media-title{
     margin:70px auto 10px;
@@ -1040,7 +940,7 @@ i,em{
     line-height:18px;
 }
 .infomation-more:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .write-con .write-icon{
     font-size:50px;
@@ -1121,7 +1021,7 @@ i,em{
 }
 .xw-tab-item h1{
     font-size:20px;
-    color:#e84c3d;
+    color:#ff6c00;
     margin-bottom:60px;
 }
 .xw-choose-tab .xw-tab-img div{
@@ -1136,7 +1036,7 @@ i,em{
 .wb-con h4{
     margin:36px auto 45px;
     font-size:22px;
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .wb-con .wb-line{
     background: url("../images/wb-yd.png")/*tpa=http://image.dmlei.com/Public/static/DmleiV2/images/wb-yd.png*/ no-repeat center;
@@ -1192,55 +1092,55 @@ i,em{
     height:900px;
     padding:60px 0;
     text-align: center;
-    background: url("../images/wb-stage.png")/*tpa=http://image.dmlei.com/Public/static/DmleiV2/images/wb-stage.png*/ no-repeat center;
+    background: url("../images/index/wb-stage.png")/*tpa=http://image.dmlei.com/Public/static/DmleiV2/images/wb-stage.png*/ no-repeat center;
 }
 #dsp-img1{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img1.png*/ no-repeat;
 }
 #dsp-img1:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img11.png*/ no-repeat;
 }
 #dsp-img2{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img2.png*/ no-repeat;
 }
 #dsp-img2:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img22.png*/ no-repeat;
 }
 #dsp-img3{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img3.png*/ no-repeat;
 }
 #dsp-img3:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img33.png*/ no-repeat;
 }
 #dsp-img4{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img4.png*/ no-repeat;
 }
 #dsp-img4:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img44.png*/ no-repeat;
 }
 #dsp-img5{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img5.png*/ no-repeat;
 }
 #dsp-img5:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img55.png*/ no-repeat;
 }
 #dsp-img6{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img6.png*/ no-repeat;
 }
 #dsp-img6:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img66.png*/ no-repeat;
 }
 #dsp-img7{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img7.png*/ no-repeat;
 }
 #dsp-img7:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img77.png*/ no-repeat;
 }
 #dsp-img8{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img8.png*/ no-repeat;
 }
 #dsp-img8:hover{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png*/ no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/dsp_img88.png*/ no-repeat;
 }
 /************************************************************************************招商客户**********************************************************************/
 .g-mt20{
@@ -1253,7 +1153,7 @@ i,em{
     width: 1001px;
     height: 432px;
     position: relative;
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/zs_chart5_12.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/zs_chart5_12.png*/ center no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/zs_chart5_12.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/zs_chart5_12.png*/ center no-repeat;
     margin: 0 auto 0;
 
 }
@@ -1350,10 +1250,10 @@ i,em{
     line-height: 52px;
 }
 .now a {
-    color: #e84c3d;
+    color: #ff6c00;
 }
 .orange {
-    color: #e84c3d!important;
+    color: #ff6c00!important;
 }
 .assets_center {
     border: 1px solid #d5d5d5;
@@ -1421,8 +1321,8 @@ i,em{
 }
 .backF5{background: #f5f5f5;}
 .coin_menu .here {
-    background: #fff url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/now.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/now.png*/ no-repeat 222px 16px;
-    border-left: 3px solid #e84c3d;
+    background: #fff url("../images/index/now.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/now.png*/ no-repeat 222px 16px;
+    border-left: 3px solid #ff6c00;
     border-right: none;
     border-bottom: 1px solid #d5d5d5;
     border-top: 1px solid #d5d5d5;
@@ -1431,7 +1331,7 @@ i,em{
     line-height: 40px;
 }
 .coin_menu .here a {
-    color: #e84c3d;
+    color: #ff6c00;
 }
 .coin_menu dt a{
    font-size:14px;
@@ -1461,7 +1361,7 @@ i,em{
 }
 .about-chat{
     padding:8px 30px 11px 40px ;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/about_chat.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/about_chat.png*/ no-repeat;
+    background: url("../images/index/about_chat.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/about_chat.png*/ no-repeat;
 }
 .about-chat p{
     color:#fff;
@@ -1578,7 +1478,7 @@ i,em{
     cursor: pointer;
 }
 .help-con li a:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .dmlei-help{
     text-align: center;
@@ -1649,15 +1549,15 @@ i,em{
 }
 .notice-article h2{
     font-size:14px;
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .notice-article a{
     font-size:14px;
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .notice-article a:hover{
     font-size:14px;
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .notice-article h2{
     margin-bottom:10px;
@@ -1675,7 +1575,7 @@ i,em{
 }
 .notice-article p i a{
     font-size:14px;
-    color:#e84c3d;
+    color:#ff6c00;
     margin-left:20px;
 }
 .pagenumber-box{
@@ -1697,13 +1597,13 @@ i,em{
 .pagenumber li a{
     padding:8px 10px;
     background: #fff;
-    color:#e84c3d;
+    color:#ff6c00;
     font-size:14px;
     display: block;
     cursor: pointer;
 }
 .pagenumber li a:hover,.pagenumber li a.active{
-    background: #e84c3d;
+    background: #ff6c00;
     color:#fff;
 }
 
@@ -1741,7 +1641,7 @@ i,em{
 }
 
 .d-tab .d-item.active {
-    background-color: #E84E40;
+    background-color: #ff6c00;
 }
 
 .d-tab .d-item.active::after {
@@ -1752,7 +1652,7 @@ i,em{
     margin-left: -15px;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-top: 15px solid #E84E40;;
+    border-top: 15px solid #ff6c00;;
     display: block;
     width: 0;
     height: 0;
@@ -1787,7 +1687,7 @@ i,em{
     height: 50px;
     line-height: 50px;
     text-align: center;
-    color: #f36a5a;
+    color: #ff6c00;
     border-left: 1px solid #ebebeb;
     border-right: 1px solid #ebebeb;
     border-bottom: 1px solid #ebebeb;
@@ -1813,7 +1713,7 @@ i,em{
     left: -120px;
     top: 0;
     color: #fff;
-    background-color: #e84c3d;
+    background-color: #ff6c00;
     z-index: 888888;
     opacity: 0;
 }
@@ -1825,7 +1725,7 @@ i,em{
     top: 35px;
     color: #fff;
     text-align: center;
-    background-color: #e84c3d;
+    background-color: #ff6c00;
     z-index: 888;
     opacity: 0;
 }
@@ -1841,7 +1741,7 @@ i,em{
 }
 
 .fixBox .item:hover i {
-    background: #e84c3d;
+    background: #ff6c00;
     color: #fff;
 }
 .yx-dsp .dsp-item .dsp-img img{
@@ -1914,22 +1814,22 @@ i,em{
     margin-bottom: 60px;
 }
 .wi_img1 {
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -1px 0px no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -1px 0px no-repeat;
 }
 .wi_img2 {
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -125px 0px no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -125px 0px no-repeat;
 }
 .wi_img3 {
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -249px 0px no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -249px 0px no-repeat;
 }
 .wi_img4 {
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -1px -125px no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -1px -125px no-repeat;
 }
 .wi_img5 {
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -125px -125px no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -125px -125px no-repeat;
 }
 .wi_img6 {
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -249px -125px no-repeat;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/excel.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/excel.png*/ -249px -125px no-repeat;
 }
 .xc-banner {
     width: 100%;
@@ -1970,38 +1870,38 @@ i,em{
     min-height: 500px;
 }
 .jzyx-banner{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/page-jzyx-banner1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-jzyx-banner1.png*/ no-repeat center center;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/page-jzyx-banner1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-jzyx-banner1.png*/ no-repeat center center;
     background-size: cover;
 }
 .zddz-banner{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/zddz-banner11.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zddz-banner11.png*/ no-repeat center center;
+    background: url("../images/index/zddz-banner11.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zddz-banner11.png*/ no-repeat center center;
     background-size: cover;
 }
 .xwtg-banner{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/page-xwtg-banner31.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-xwtg-banner31.png*/ no-repeat center center;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/page-xwtg-banner31.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-xwtg-banner31.png*/ no-repeat center center;
     background-size: cover;
 }
 .wxtg-banner{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/page-wxtg-banner1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-wxtg-banner1.png*/ no-repeat center center;
+    background: url("../xnlea.com1.z0.glb.clouddn.com/page-wxtg-banner1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-wxtg-banner1.png*/ no-repeat center center;
     background-size: cover;
 }
 .wbtg-banner{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/page-weibo-banner1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-weibo-banner1.png*/ no-repeat center center;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/page-weibo-banner1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/page-weibo-banner1.png*/ no-repeat center center;
     background-size: cover;
 }
 .jxal-banner{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/jxal-banner1.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/jxal-banner1.png*/ no-repeat center center;
+    background: url("../images/index/jxal-banner1.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/jxal-banner1.png*/ no-repeat center center;
     background-size: cover;
 }
 .kbyx-banner{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/banner-kbyx.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/banner-kbyx.png*/ no-repeat center center;
+    background: url("../images/index/banner-kbyx.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/banner-kbyx.png*/ no-repeat center center;
     background-size: cover;
 }
 .live-experience{position:absolute;top:354px;left:352px;}
-.live-experience a{text-align:center;line-height:55px;display:block;width:172px;height:55px;border-radius:7px;font-weight:600;font-size:20px;color:#e84c3d;background: #fff;transition: all ease 0.5s;
+.live-experience a{text-align:center;line-height:55px;display:block;width:172px;height:55px;border-radius:7px;font-weight:600;font-size:20px;color:#ff6c00;background: #fff;transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     -o-transition: all ease 0.5s;}
-.live-experience a:hover{color:#fff;background: #e84c3d;}
+.live-experience a:hover{color:#fff;background: #ff6c00;}
 .mb5 {
     margin-bottom: 5px;
     margin-bottom: 5px!important;
@@ -2053,7 +1953,7 @@ i,em{
     color: #3E82F7;
 }
 .cole84{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 /****************************************************************************视频弹窗*****************************************************/
 #main {
@@ -2104,7 +2004,7 @@ i,em{
 
 /*************************************************************************************************老带新活动***********************************************************************/
 .jhhd-banner{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/jhhd-banner.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-banner.png*/ no-repeat center center;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/jhhd-banner.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-banner.png*/ no-repeat center center;
     background-size: cover;
 }
 .favorable{
@@ -2143,7 +2043,7 @@ i,em{
     -o-transition:all ease 0.5s;
     -moz-transition:all ease 0.5s;
     transition: all ease 0.5s;
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/jhhd-item1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-item1.png*/ no-repeat center center ;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/jhhd-item1.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-item1.png*/ no-repeat center center ;
     box-shadow: 0 0 10px rgba(255,157,0,0.5);
     -webkit-box-shadow: 0 0 10px rgba(255,157,0,0.5);
     -moz-box-shadow: 0 0 10px rgba(255,157,0,0.5);
@@ -2160,7 +2060,7 @@ i,em{
     -o-transition:all ease 0.5s;
     -moz-transition:all ease 0.5s;
     transition: all ease 0.5s;
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/jhhd-item2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-item2.png*/ no-repeat center center ;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/jhhd-item2.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-item2.png*/ no-repeat center center ;
     box-shadow: 0 0 10px rgba(0,131,255,0.5);
     -webkit-box-shadow: 0 0 10px rgba(0,131,255,0.5);
     -moz-box-shadow: 0 0 10px rgba(0,131,255,0.5);
@@ -2177,7 +2077,7 @@ i,em{
     -o-transition:all ease 0.5s;
     -moz-transition:all ease 0.5s;
     transition: all ease 0.5s;
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/jhhd-item3.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-item3.png*/ no-repeat center center ;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/jhhd-item3.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-item3.png*/ no-repeat center center ;
     box-shadow: 0 0 10px rgba(0,255,14,0.5);
     -webkit-box-shadow: 0 0 10px rgba(0,255,14,0.5);
     -moz-box-shadow: 0 0 10px rgba(0,255,14,0.5);
@@ -2193,7 +2093,7 @@ i,em{
     background: #27b7b8;
 }
 .favorable-bg11{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/jhhd-bg4.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-bg4.png*/ no-repeat center center ;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/jhhd-bg4.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-bg4.png*/ no-repeat center center ;
     background-position: 2px;
     background-size: cover;
     height:709px;
@@ -2208,7 +2108,7 @@ i,em{
     top: -28px;
 }
 .favorable-bg22{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/jhhd-bg7.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-bg7.png*/ no-repeat center center ;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/jhhd-bg7.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-bg7.png*/ no-repeat center center ;
     background-size: cover;
     height:647px;
     position:relative;
@@ -2244,7 +2144,7 @@ i,em{
     z-index: 999;
 }
 .favorable-bg33{
-    background: url("../../../../../7xnlea.com1.z0.glb.clouddn.com/jhhd-bg6.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-bg6.png*/ no-repeat center center ;
+    background: url("../7xnlea.com1.z0.glb.clouddn.com/jhhd-bg6.png")/*tpa=http://7xnlea.com1.z0.glb.clouddn.com/jhhd-bg6.png*/ no-repeat center center ;
     background-size: cover;
     height:642px;
 }
@@ -2316,7 +2216,7 @@ i,em{
 .index-pdf ul li.pdf-item .pdf-text a {
     border-radius: 18px;
     color: #fff;
-    background: #e84c3d;
+    background: #ff6c00;
     padding: 11px 41px;
     font-size: 14px;
     cursor: pointer;
@@ -2344,7 +2244,7 @@ i,em{
 .index-pdf ul li.pdf-item .pdf-text p em{
     font-size:22px;
     font-style: normal;
-    color:#e84c3d;
+    color:#ff6c00;
     display: inline-block;
 }
 /*******************************************************************精选案例OLD****************************************************/
@@ -2367,8 +2267,8 @@ i,em{
     -webkit-transition: all .2s ease-in-out;
 }
 .cases-tab li.current a {
-    border-bottom: 2px solid #e84c3d;
-    color: #e84c3d;
+    border-bottom: 2px solid #ff6c00;
+    color: #ff6c00;
 }
 .cases-panel {
     padding: 40px 0 0 0;
@@ -2388,7 +2288,7 @@ i,em{
     height:570px;
     position:relative;
     overflow: hidden;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/case-lunbobg.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/case-lunbobg.png*/ no-repeat;
+    background: url("../images/index/case-lunbobg.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/case-lunbobg.png*/ no-repeat;
 }
 .flex{width:248px;height:390px;position:absolute;overflow: hidden;cursor: pointer;top:93px;left:20px;}
 .flex ul.slider{height:390px;position: absolute;}
@@ -2424,7 +2324,7 @@ i,em{
 }
 .cases-info .cases-desc span{
     font-size: 18px;
-    color: #e84c3d;
+    color: #ff6c00;
 }
 .cases-monitor ul li{
     float:left;
@@ -2450,7 +2350,7 @@ i,em{
 .effect-list li dl dd {
     font-family: "Microsoft Yahei Light", "Microsoft Yahei";
     font-size: 18px;
-    color: #e84c3d;
+    color: #ff6c00;
     font-weight: bold;
 }
 .cases-monitor1 .case-media li{
@@ -2463,7 +2363,7 @@ i,em{
     float:left;
 }
 .cases-monitor1 .case-media li:hover{
-    border:1px solid #e84c3d;
+    border:1px solid #ff6c00;
 }
 .cases-items.current {
     display: block;
@@ -2475,20 +2375,20 @@ i,em{
 .case-demo img.banner{width:1039px;height:284px;overflow: hidden;margin-bottom:25px;}
 .case-left ul li div{width:19px;height:19px;background:#b6b6b6;border-radius: 50%;float:left;}
 .case-left ul li{margin-bottom:38px;width:100%;cursor: pointer;}
-.case-left ul li.active div{margin-left:-6px;float:left;width:31px;height:31px;border-radius: 50%;padding:4px;border:2px solid #e84c3d;background: #e84c3d;background-clip: content-box;}
+.case-left ul li.active div{margin-left:-6px;float:left;width:31px;height:31px;border-radius: 50%;padding:4px;border:2px solid #ff6c00;background: #ff6c0;background-clip: content-box;}
 .case-left-item span{float:left;font-size:16px;color:#666;font-weight: 600;display: inline-block;
 margin-left:15px;line-height:19px;}
-.case-left ul li.active span{color:#e84c3d;line-height: 31px;margin-left:10px;}
-.case-left-line{background:url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/line-left.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/line-left.png*/ no-repeat;position: absolute;left:7px;top:17px;z-index: -1;width:6px;height:125px;}
+.case-left ul li.active span{color:#ff6c00;line-height: 31px;margin-left:10px;}
+.case-left-line{background:url("../images/index/line-left.png")/*tpa=../images/index/line-left.png*/ no-repeat;position: absolute;left:7px;top:17px;z-index: -1;width:6px;height:125px;}
 /*********************************************************************网站地图*********************************************************/
-.sitemap-title{font-size:14px;color:#e84c3d;padding-bottom:10px;border-bottom:1px dashed #DCDCDC;font-weight: 500;}
+.sitemap-title{font-size:14px;color:#ff6c00;padding-bottom:10px;border-bottom:1px dashed #DCDCDC;font-weight: 500;}
 .sitemap-link a{font-size:14px;color:#999;margin-right:30px;float: left;}
-.sitemap-link a:hover{font-size:14px;color:#e84c3d;text-decoration: underline;}
+.sitemap-link a:hover{font-size:14px;color:#ff6c00;text-decoration: underline;}
 .sitemap-link{padding:20px 0 36px;}
 
 /*********************************************************************直播网红*********************************************************/
 .zbwh-banner{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/page-zbwh-banner.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/page-zbwh-banner.png*/ no-repeat center center;
+    background: url("../images/index/page-zbwh-banner.png")/*tpa=../images/index/page-zbwh-banner.png*/ no-repeat center center;
     background-size: cover;
 }
 .live-item .live-dtx{
@@ -2522,7 +2422,7 @@ margin-left:15px;line-height:19px;}
     height: 22px;
     border-radius: 50%;
     border: 2px solid #fff;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/platform.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/platform.png*/ no-repeat -2px -2px;
+    background: url("../images/index/platform.png")/*tpa=../images/index/platform.png*/ no-repeat -2px -2px;
 }
 
 .live-info-main{margin-left:15px;padding-top:8px;}
@@ -2619,7 +2519,7 @@ margin-left:15px;line-height:19px;}
     margin:0 auto;
 }
 .rank-num-red{
-    background: #e84c3d;
+    background: #ff6c00;
 }
 .rank-num-grey{
     background: #DBDBDB;
@@ -2647,7 +2547,7 @@ margin-left:15px;line-height:19px;}
     width: 14px;
     height: 14px;
     margin: 0 7px -2px 0;
-    background-image: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/video-verified-icons.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/video-verified-icons.png*/;
+    background-image: url("../images/index/video-verified-icons.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/video-verified-icons.png*/;
     background-repeat: no-repeat;
     position: relative;
     top: 35px;
@@ -2671,7 +2571,7 @@ margin-left:15px;line-height:19px;}
     width:75px;
     height:30px;
     display: block;
-    background: #e84c3d;
+    background: #ff6c00;
     color:#fff;
     line-height:30px;
     border-radius: 30px;
@@ -2682,16 +2582,16 @@ margin-left:15px;line-height:19px;}
     padding: 60px 0 45px;
 }
 .activity1 {
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity01.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity01.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity01.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity01.png*/ no-repeat;
 }
 .activity2 {
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity02.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity02.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity02.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity02.png*/ no-repeat;
 }
 .activity3 {
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity04.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity04.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity04.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity04.png*/ no-repeat;
 }
 .activity4 {
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity03.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity03.png*/ no-repeat;
+    background: url("../images/index/livevideo-activity03.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/livevideo-activity03.png*/ no-repeat;
 }
 .activity-content {
     width: 1200px;
@@ -2736,14 +2636,14 @@ margin-left:15px;line-height:19px;}
 .live-box>div.activity-content{width: 1200px;height: 500px;}
 /*.btn{position: absolute;bottom: 10px;text-align: center;left: 0;right: 0;}*/
 .live-btn>span{width: 15px;height:15px;background: #F1A299;display: inline-block;border-radius: 50%;cursor: pointer;margin-left: 12px;}
-.live-btn>span.active{background: #e84c3d;border-radius:50%;border:solid 1px #e84c3d;}
+.live-btn>span.active{background: #ff6c00;border-radius:50%;border:solid 1px #ff6c0;}
 .live-btn1>span{width: 11px;height:11px;background: #cecece;display: inline-block;border-radius: 50%;cursor: pointer;margin-left: 12px;}
 .live-btn1>span.active{background: #afafaf;border-radius:50%;border:solid 1px #afafaf;}
 .dsp-btn1>span{width: 11px;height:11px;background: #cecece;display: inline-block;border-radius: 50%;cursor: pointer;margin-left: 12px;}
 .dsp-btn1>span.active{background: #afafaf;border-radius:50%;border:solid 1px #afafaf;}
-.prev,.prev1{width: 50px;height: 70px;background:url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/live_left.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/live_left.png*/ no-repeat;position: absolute;top: 50%;left: 0;text-align: center;
+.prev,.prev1{width: 50px;height: 70px;background:url("../images/index/live_left.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/live_left.png*/ no-repeat;position: absolute;top: 50%;left: 0;text-align: center;
     margin-top: -20px;font-weight: bold;cursor: pointer;display: none;z-index:1111;}
-.next,.next1{width: 50px;height: 70px;background:url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/live_right.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/live_right.png*/ no-repeat;position: absolute;top: 50%;right: -3px;text-align: center;
+.next,.next1{width: 50px;height: 70px;background:url("../images/index/live_right.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/live_right.png*/ no-repeat;position: absolute;top: 50%;right: -3px;text-align: center;
     line-height:70px;margin-top: -20px;cursor: pointer;z-index: 1111;display: none;}
 #live-banner:hover .prev ,#live-banner:hover .next,#live-banner1:hover .prev1 ,#live-banner1:hover .next1,#dsp-banner:hover .next1,#dsp-banner:hover .prev1{display: block;}
 #live-help-banner:hover .prev1 ,#live-help-banner:hover .next1,#live-help-banner1:hover .prev1 ,#live-help-banner1:hover .next1{display: block;}
@@ -2761,7 +2661,7 @@ margin-left:15px;line-height:19px;}
 .live-help{
     width:100%;
     height:577px;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmlei-help.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmlei-help.png*/ no-repeat;
+    background: url("../images/index/dmlei-help.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmlei-help.png*/ no-repeat;
     margin-top:60px;
 }
 .livehelp-box #help1{
@@ -2773,7 +2673,7 @@ margin-left:15px;line-height:19px;}
     width: 983px;
     padding: 60px 0 0;
     margin: 0 auto;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/step3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/step3.png*/ no-repeat;
+    background: url("../images/index/step3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/step3.png*/ no-repeat;
     background-position: 140px 110px;
 }
 .step-box2 .step-item{
@@ -2783,7 +2683,7 @@ margin-left:15px;line-height:19px;}
     width: 105px;
     height: 105px;
     border-radius: 50%;
-    border: 2px solid #e84c3d;
+    border: 2px solid #ff6c00;
     vertical-align: middle;
     margin: 0 auto;
     line-height:97px;
@@ -2802,7 +2702,7 @@ margin-left:15px;line-height:19px;}
     transition: all ease 0.5s;
 }
 .live-help-list .live-help-list-item:hover{
-    background: #e84c3d;
+    background: #ff6c00;
 }
 .live-help-list .live-help-list-item:hover h5{
     color:#fff;
@@ -2831,7 +2731,7 @@ margin-left:15px;line-height:19px;}
 }
 .live-help-list .live-help-list-item a{
     font-size:12px;
-    color:#e84c3d;
+    color:#ff6c00;
     display: block;
     width:99px;
     height:30px;
@@ -2839,7 +2739,7 @@ margin-left:15px;line-height:19px;}
     text-align: center;
     line-height:30px;
     margin:10px auto 0;
-    border:1px solid #e84c3d;
+    border:1px solid #ff6c00;
     border-radius: 30px;
 }
 .live-help-list{
@@ -2911,7 +2811,7 @@ margin-left:15px;line-height:19px;}
 .conditions-item-zd{
     width:222px;
     height:192px;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/zd-supply.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-supply.png*/ no-repeat;
+    background: url("../images/index/zd-supply.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-supply.png*/ no-repeat;
     border-radius: 8px;
     position:relative;
     margin-right:40px;
@@ -2926,7 +2826,7 @@ margin-left:15px;line-height:19px;}
     left:76px;
     width:70px;
     height:70px;
-    background: #e84c3d;
+    background: #ff6c00;
     text-align: center;
     line-height: 70px;
     color:#fff;
@@ -2949,7 +2849,7 @@ margin-left:15px;line-height:19px;}
     color:#fff;
     font-size:20px;
     margin:0 auto;
-    background: #e84c3d;
+    background: #ff6c00;
     display: block;
 }
 .zd-cooperation{
@@ -2958,14 +2858,14 @@ margin-left:15px;line-height:19px;}
 .zd-cooperation-box{
     width:1065px;
     margin:0 auto;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/zd-coopration.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-coopration.png*/ no-repeat;
+    background: url("../images/index/zd-coopration.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-coopration.png*/ no-repeat;
     padding:230px 0 90px 60px;
     position:relative;
 }
 .zd-cooperation-box ul li span{
     width:29px;
     height:29px;
-    background: #e84c3d;
+    background: #ff6c00;
     color:#fff;
     display: inline-block;
     font-size:18px;
@@ -2980,7 +2880,7 @@ margin-left:15px;line-height:19px;}
 }
 .zd-cooperation-box h3{
     font-size:32px;
-    color:#e84c3d;
+    color:#ff6c00;
    position: absolute;
     top:70px;
     left:155px;
@@ -2992,7 +2892,7 @@ margin-left:15px;line-height:19px;}
 .zd-version{
     height:657px;
     padding:60px 0 100px;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/zd-version.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-version.png*/ no-repeat;
+    background: url("../images/index/zd-version.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-version.png*/ no-repeat;
 }
 .zd-version-item{
     width:467px;
@@ -3011,16 +2911,16 @@ margin-left:15px;line-height:19px;}
     text-align: center;
 }
 .zd-version-item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/zd-version2.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-version2.png*/ no-repeat;
+    background: url("../images/index/zd-version2.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-version2.png*/ no-repeat;
 }
 .zd-version-item2{
     margin-right:0;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/zd-version1.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-version1.png*/ no-repeat;
+    background: url("../images/index/zd-version1.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/zd-version1.png*/ no-repeat;
 }
 .zd-version-circle{
     width:106px;
     height:106px;
-    background: #e84c3d;
+    background: #ff6c00;
     position:absolute;
     top:-55px;
     left:183px;
@@ -3048,7 +2948,7 @@ margin-left:15px;line-height:19px;}
 }
 .zd-contact .big-title{
     font-size: 36px;
-    color:#e84c3d;
+    color:#ff6c00;
     text-align: center;
 }
 .footer-widgets-wrap {
@@ -3145,7 +3045,7 @@ margin-left:15px;line-height:19px;}
 .zd-submit a{
     width:189px;
     height:38px;
-    background: #e84c3d;
+    background: #ff6c00;
     border-radius: 6px;
     line-height:38px;
     color:#fff;
@@ -3200,7 +3100,7 @@ margin-left:15px;line-height:19px;}
 }
 .zddz-info-right .zddz-info3 span{
     font-size:24px;
-    color:#e84c3d;
+    color:#ff6c00;
     margin-left:32px;
 
 }
@@ -3221,7 +3121,7 @@ margin-left:15px;line-height:19px;}
     float:left;
 }
 .zddz-info4 a.active{
-    border:2px solid #e84c3d;
+    border:2px solid #ff6c00;
 }
 .zddz-info4 a:first-child{
     margin-right:5px;
@@ -3244,20 +3144,20 @@ margin-left:15px;line-height:19px;}
     text-align: center;
 }
 .zddz-info6 a.order{
-    background: #e84c3d;
-    border:1px solid #e84c3d;
+    background: #ff6c00;
+    border:1px solid #ff6c00;
     margin-right:12px;
     margin-left:15px;
 }
 .zddz-info6 a.kefu{
     background: #FFC8C3;
     border:1px solid #FFA198;
-    color:#e84c3d;
+    color:#ff6c00;
 }
 
 /*****************************************朋友圈广告********************************/
 .pyq-banner{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/page-pyq-banner11.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/page-pyq-banner11.png*/ no-repeat center center;
+    background: url("../images/index/page-pyq-banner11.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/page-pyq-banner11.png*/ no-repeat center center;
     background-size: cover;
 }
 .friend-ys{
@@ -3292,7 +3192,7 @@ margin-left:15px;line-height:19px;}
 }
 .friend-ys-item .friend-ys-text p span{
     font-size: 14px;
-    color:#e84c3d;
+    color:#ff6c00;
     font-weight: 600;
 }
 .friend-data-box{
@@ -3302,7 +3202,7 @@ margin-left:15px;line-height:19px;}
     background: #f5f5f5;
 }
 .friend-data{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/friend-data.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-data.png*/ no-repeat center;
+    background: url("../images/index/friend-data.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-data.png*/ no-repeat center;
     height:300px;
     margin-top:80px;
 }
@@ -3361,17 +3261,17 @@ margin-left:15px;line-height:19px;}
 }
 .friend-case-item1{
     height:56px;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/friend-hlg.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-hlg.png*/ no-repeat left;
+    background: url("../images/index/friend-hlg.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-hlg.png*/ no-repeat left;
     margin-bottom:60px;
 }
 .friend-case-item2{
     height:56px;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/friend-tcs.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-tcs.png*/ no-repeat left;
+    background: url("../images/index/friend-tcs.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-tcs.png*/ no-repeat left;
     margin-bottom:60px;
 }
 .friend-case-item3{
     height:56px;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/friend-khjy.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-khjy.png*/ no-repeat left;
+    background: url("../images/index/friend-khjy.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-khjy.png*/ no-repeat left;
     margin-bottom:60px;
 }
 .friend-case-item li{
@@ -3399,7 +3299,7 @@ margin-left:15px;line-height:19px;}
 }
 .friend-step{
     width: 1153px;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/friend-step.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-step.png*/ no-repeat;
+    background: url("../images/index/friend-step.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/friend-step.png*/ no-repeat;
     background-position: 105px 113px;
     padding: 60px 0 0;
     margin: 0 auto;
@@ -3438,8 +3338,8 @@ margin-left:15px;line-height:19px;}
     height: 20px;
 }
 .friend-other .smartul li.active {
-    border-bottom: 1px solid #e84c3d;
-    color: #e84c3d;
+    border-bottom: 1px solid #ff6c00;
+    color: #ff6c00;
 }
 .friend-other .smartul li.active .focus_bor {
     display: block;
@@ -3454,7 +3354,7 @@ margin-left:15px;line-height:19px;}
     display: block;
     border: 10px transparent solid;
     border-top-width: 0;
-    border-bottom-color: #e84c3d;
+    border-bottom-color: #ff6c00;
 }
 .friend-other{
     margin-top:60px;
@@ -3466,11 +3366,11 @@ margin-left:15px;line-height:19px;}
     overflow: hidden;
 }
 .friend-other .smartul li.active .icon-friend-other,.friend-other .smartul li.active >span{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 /******************************************************口碑营销********************************************/
 .reputation-wdyx{
-    background:url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/reputation-wdyx.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/reputation-wdyx.png*/ no-repeat center top;
+    background:url("../images/index/reputation-wdyx.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/reputation-wdyx.png*/ no-repeat center top;
     width:930px;
     margin:0 auto;
     height:502px;
@@ -3566,7 +3466,7 @@ margin-left:15px;line-height:19px;}
     margin:0 auto;
 }
 .reputation-item li{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/reputation-item.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/reputation-item.png*/ no-repeat;
+    background: url("../images/index/reputation-item.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/reputation-item.png*/ no-repeat;
     width:289px;
     height:225px;
     position:relative;
@@ -3667,7 +3567,7 @@ margin-left:15px;line-height:19px;}
     background: #fb6d5f;
 }
 .wdzy{
-   background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/bkzy.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/bkzy.png*/ no-repeat;
+   background: url("../images/index/bkzy.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/bkzy.png*/ no-repeat;
     background-size: cover;
     height:385px;
     padding:97px 0 103px;
@@ -3685,7 +3585,7 @@ margin-left:15px;line-height:19px;}
     width:713px;
     height:510px;
     margin:0 auto;
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/kbyx-why.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/kbyx-why.png*/ no-repeat center;
+    background: url("../images/index/kbyx-why.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/kbyx-why.png*/ no-repeat center;
     position:relative;
 }
 .kbyx-dmlei-text{
@@ -3695,7 +3595,7 @@ margin-left:15px;line-height:19px;}
 }
 .kbyx-dmlei-text h5{
     font-size:20px;
-    color:#e84c3d;
+    color:#ff6c00;
     margin-bottom:15px;
     font-weight: 600;
 }
@@ -3709,7 +3609,7 @@ margin-left:15px;line-height:19px;}
 .kbyx-btn{
     width:241px;
     height:71px;
-    background:#e84c3d ;
+    background:#ff6c00 ;
     color:#fff;
     line-height: 71px;
     text-align: center;
@@ -3727,9 +3627,9 @@ margin-left:15px;line-height:19px;}
     width: 97px;
     height: 34px;
     display: inline-block;
-    border: 1px solid #e84c3d;
+    border: 1px solid #ff6c00;
     border-radius: 6px;
-    color: #e84c3d;
+    color: #ff6c00;
     line-height: 34px;
     text-align: center;
     margin-left: 15px;
@@ -3741,7 +3641,7 @@ margin-left:15px;line-height:19px;}
 }
 .friend-qq:hover, .friend-qq:active, .friend-qq:focus {
     color: #fff;
-    background: #e84c3d;
+    background: #ff6c00;
 }
 .friend-content {
     text-align: center;
@@ -3900,7 +3800,7 @@ margin-left:15px;line-height:19px;}
     display: none;
 }
 .dmleiv2-medias-items .this{
-    color:#e84c3d;
+    color:#ff6c00;
     position: relative;
 }
 .dmleiv2-medias-items span{
@@ -3909,7 +3809,7 @@ margin-left:15px;line-height:19px;}
 .dmleiv2-medias-items .this span{
     display: inline-block;
     margin-top: 5px;
-    color: #e84c3d;
+    color: #ff6c00;
     position: absolute;
     bottom: -22px;
     left: 50%;
@@ -3919,7 +3819,7 @@ margin-left:15px;line-height:19px;}
     z-index: 22;
     position: absolute;
     height: 100%;
-    background:url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-medias-bg.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-medias-bg.png*/ no-repeat;
+    background:url("../images/index/dmleiv2-medias-bg.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-medias-bg.png*/ no-repeat;
     width:100%;
     left:0;
     top: 0;
@@ -3945,16 +3845,16 @@ margin-left:15px;line-height:19px;}
     box-shadow:0 3px 10px 0px rgba(0,0,0,0.2);
 }
 .dmleiv2-plat .thum-item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item1.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item1.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item1.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item1.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item2.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item2.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item2.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item2.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item3.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item3.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item4.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item4.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-thum-item4.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-thum-item4.png*/ no-repeat;
 }
 .dmleiv2-plat .thum-item:last-child{
     margin-right:0;
@@ -4070,7 +3970,7 @@ margin-left:15px;line-height:19px;}
 
 .thum-item.active .thum-item-arrow-circle {
     transform: rotateZ(-180deg);
-    background-color: #e84c3d;
+    background-color: #ff6c00;
     color: #fff;
 }
 
@@ -4201,7 +4101,7 @@ margin-left:15px;line-height:19px;}
     margin-top:10px;
 }
 .medias-more:hover a{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .medias-type{
     text-align: center;
@@ -4254,11 +4154,11 @@ margin-left:15px;line-height:19px;}
     padding:58px 69px 0;
 }
 .dmleiv2-part4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-part4.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-part4.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-part4.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-part4.png*/ no-repeat;
     padding:109px 0 69px;
 }
 .dmleiv2-part2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-part2.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-part2.png*/ no-repeat;
+    background: url("../images/index/dmleiv2-part2.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/dmleiv2-part2.png*/ no-repeat;
     height:900px;
     padding:105px 0;
 }
@@ -4281,272 +4181,272 @@ margin-left:15px;line-height:19px;}
 }
 
 .dmleiv2-customer-list li.customer-list1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1071px;
 }
 .dmleiv2-customer-list li.customer-list1:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1203px;
 }
 .dmleiv2-customer-list li.customer-list2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1071px;
 }
 .dmleiv2-customer-list li.customer-list2:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1203px;
 }
 .dmleiv2-customer-list li.customer-list3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1071px;
 }
 .dmleiv2-customer-list li.customer-list3:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1203px;
 }
 .dmleiv2-customer-list li.customer-list4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1071px;
 }
 .dmleiv2-customer-list li.customer-list4:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1203px;
 }
 .dmleiv2-customer-list li.customer-list5{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1069px;
 }
 .dmleiv2-customer-list li.customer-list5:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1202px;
 }
 .dmleiv2-customer-list li.customer-list6{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1336px;
 }
 .dmleiv2-customer-list li.customer-list6:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1470px;
 }
 .dmleiv2-customer-list li.customer-list7{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1336px;
 }
 .dmleiv2-customer-list li.customer-list7:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1470px;
 }
 .dmleiv2-customer-list li.customer-list8{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1336px;
 }
 .dmleiv2-customer-list li.customer-list8:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1470px;
 }
 .dmleiv2-customer-list li.customer-list9{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1336px;
 }
 .dmleiv2-customer-list li.customer-list9:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1470px;
 }
 .dmleiv2-customer-list li.customer-list10{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1336px;
 }
 .dmleiv2-customer-list li.customer-list10:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1470px;
 }
 .dmleiv2-customer-list li.customer-list11{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1604px;
 }
 .dmleiv2-customer-list li.customer-list11:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -1739px;
 }
 .dmleiv2-customer-list li.customer-list12{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1604px;
 }
 .dmleiv2-customer-list li.customer-list12:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-218px -1739px;
 }
 .dmleiv2-customer-list li.customer-list13{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1604px;
 }
 .dmleiv2-customer-list li.customer-list13:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-418px -1739px;
 }
 .dmleiv2-customer-list li.customer-list14{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1604px;
 }
 .dmleiv2-customer-list li.customer-list14:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-618px -1739px;
 }
 .dmleiv2-customer-list li.customer-list15{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1604px;
 }
 .dmleiv2-customer-list li.customer-list15:hover{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-818px -1739px;
 }
 .brand-list1 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-19px -17px;
 }
 .brand-list1 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-191px -17px;
 }
 .brand-list1 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-361px -17px;
 }
 .brand-list1 .item4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-532px -17px;
 }
 .brand-list1 .item5{
-     background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+     background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
      background-position:-704px -17px;
 }
 .brand-list2 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-19px -145px;
 }
 .brand-list2 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-309px -145px;
 }
 .brand-list2 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-597px -145px;
 }
 .brand-list3 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-19px -274px;
 }
 .brand-list3 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-309px -274px;
 }
 .brand-list3 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-597px -274px;
 }
 /*提高销量*/
 .sales-list1 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -401px;
 }
 .sales-list1 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-155px -401px;
 }
 .sales-list1 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-290px -401px;
 }
 .sales-list1 .item4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-426px -401px;
 }
 .sales-list1 .item5{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-561px -401px;
 }
 .sales-list1 .item6{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-696px -401px;
 }
 .sales-list2 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -532px;
 }
 .sales-list2 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-155px -532px;
 }
 .sales-list2 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-290px -532px;
 }
 .sales-list2 .item4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-426px -532px;
 }
 .sales-list2 .item5{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-561px -532px;
 }
 .sales-list2 .item6{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-696px -532px;
 }
 .sales-list3 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -660px;
 }
 .sales-list3 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-155px -660px;
 }
 .sales-list3 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-290px -660px;
 }
 .sales-list3 .item4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-426px -660px;
 }
 .sales-list3 .item5{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-561px -660px;
 }
 .sales-list3 .item6{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-696px -660px;
 }
 .user-list1 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -788px;
 }
 .user-list1 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-233px -788px;
 }
 .user-list1 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-447px -788px;
 }
 .user-list1 .item4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-661px -788px;
 }
 .user-list2 .item1{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-20px -930px;
 }
 .user-list2 .item2{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-233px -930px;
 }
 .user-list2 .item3{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-447px -930px;
 }
 .user-list2 .item4{
-    background: url("../../../../../7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
+    background: url("../images/index/spriteimg3.png")/*tpa=http://7xnlea.com2.z0.glb.qiniucdn.com/spriteimg3.png*/ no-repeat;
     background-position:-661px -930px;
 }
 
@@ -4554,7 +4454,7 @@ margin-left:15px;line-height:19px;}
     padding:70px 20px;
 }
 .dmleiv2-company .dmleiv2-company-item{
-    border-top:3px solid #e84c3d;
+    border-top:3px solid #ff6c00;
     border-left:1px solid #d7d7d7;
     border-right:1px solid #d7d7d7;
     border-bottom:1px solid #d7d7d7;
@@ -4588,7 +4488,7 @@ margin-left:15px;line-height:19px;}
     cursor: pointer;
 }
 .dmleiv2-company .dmleiv2-company-item .dmleiv2-company-item-header a:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .dmleiv2-company .dmleiv2-company-item  .dmleiv2-compang-item-con{
     padding:0 15px;
@@ -4603,7 +4503,7 @@ margin-left:15px;line-height:19px;}
     color:#666;
 }
 .dmleiv2-company .dmleiv2-company-item  .dmleiv2-compang-item-con ul li:hover a{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .dmleiv2-company .dmleiv2-company-item  .dmleiv2-compang-item-con ul li:last-child{
     border-bottom:none;
@@ -4683,7 +4583,7 @@ margin-left:15px;line-height:19px;}
     color:#333;
 }
 .seo-list ul li.seo-list-item:hover .seo-list-info h4 a{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .seo-list ul li.seo-list-item .seo-list-info p{
     font-size:14px;
@@ -4808,7 +4708,7 @@ margin-left:15px;line-height:19px;}
     overflow: hidden;
 }
 .wx-article-item1:hover .wxhot-detail-title a{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .wx-article-item1 .wxhot-detail-img img{
     max-width: 100%;;
@@ -4837,7 +4737,7 @@ margin-left:15px;line-height:19px;}
     color:#555;
 }
 .wxhot-newarticle-list ul li:hover h3 a{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .wxhot-newarticle-list ul li p{
     font-size:14px;
@@ -4885,17 +4785,17 @@ margin-left:15px;line-height:19px;}
     color:#333;
 }
 .yxxy-left-btm .yxxy-l-b-title a:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 #yxxy-more:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .yxxy-yxrw-list ul li{
     padding:23px 26px;
     border-bottom:1px solid #cfcfcf;
 }
 .yxxy-yxrw-list ul li:hover .yxxy-yxrw-middle h2 a{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .yxxy-yxrw-list .yxxy-yxrw-left .yxxy-yxrw-left-img{
     width:90px;
@@ -5014,7 +4914,7 @@ margin-left:15px;line-height:19px;}
     text-align: center;
 }
 .yxxy-yxrw-list>a:hover{
-    color:#e84c3d;
+    color:#ff6c00;
 }
 .yxxy-box{
     width: 310px;
@@ -5061,7 +4961,7 @@ margin-left:15px;line-height:19px;}
     cursor: pointer;
 }
 .yxxy-box .yxxy-box-tab a.active{
-    background:#e84c3d;
+    background:#ff6c00;
 }
 .yxxy-box .yxxy-box-text{
     position: absolute;

@@ -34,8 +34,6 @@
             var len = $(box).find(".activity-content").length;
             $(box).width(firstImg.width()*len);//计算总宽度
 
-
-
             //创建小圆点
             if(me.options.circle){
                 me.cire();
@@ -56,8 +54,6 @@
             if(me.options.autoPlay){
                 me.autoPlay();
             }
-
-
         }
 
         //鼠标移入移出
